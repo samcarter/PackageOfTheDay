@@ -1,6 +1,6 @@
 # Package of the day
 
-As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon celebrate their first birtday, it is time for a new project. The idea is to post each day a LaTeX package which I did not know before or which deserves a bit more attention. 
+As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon celebrate their first birthday, it is time for a new project. The idea is to post each day a LaTeX package which I did not know before or which deserves a bit more attention. 
 
 - the package (or class/Ti*k*Z library/...) should be publically acessible, best if it is on CTAN
 - I don't gurantee that all the packages in this list are good or even work. Maybe I just like the idea or topic, so use them on your own risk
