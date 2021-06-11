@@ -3,7 +3,7 @@
 As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon celebrate their first birthday, it is time for a new project. The idea is to post each day a LaTeX package which I did not know before or which deserves a bit more attention. 
 
 - the package (or class/Ti*k*Z library/...) should be publically acessible, best if it is on CTAN
-- I don't gurantee that all the packages in this list are good or even work. Maybe I just like the idea or topic, so use them on your own risk
+- I don't gurantee that all the packages in this list are good or even work. Maybe I just like the idea or topic, so use them at your own risk
 - participation is very welcome! If you have any packages which you would to see in this list, open an issue or make a pull request 
 
 Day | Package | Link 
