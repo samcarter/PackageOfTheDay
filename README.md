@@ -1,5 +1,7 @@
 # Package of the day
 
+<p align="center"><img src="./Logo.svg" alt="Logo" title="Logo" height="256"></p align>
+
 As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon celebrate their first birthday, it is time for a new project. The idea is to post each day a LaTeX package which I did not know before or which deserves a bit more attention. 
 
 - the package (or class/Ti*k*Z library/...) should be publicly acessible, best if it is on CTAN
