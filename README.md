@@ -8,9 +8,9 @@ As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon cel
 - I don't guarantee that all the packages in this list are good or even work. Maybe I just like the idea or topic, so use them at your own risk
 - participation is very welcome! If you have any packages which you would to see in this list, open an issue or make a pull request (packages which encourage pineapple pizzas won't be included)
 
-Day | Package | Link 
------ | --- | --- 
-01/07 |  |
+Day   | Package   | Link 
+----- | --------- | ---------------------------------- 
+01/07 | barracuda | https://www.ctan.org/pkg/barracuda
 02/07 |  |
 03/07 |  |
 04/07 |  |
