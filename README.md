@@ -11,7 +11,7 @@ As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon cel
 Day   | Package   | Link 
 ----- | --------- | ---------------------------------- 
 01/07 | barracuda | https://www.ctan.org/pkg/barracuda
-02/07 |  |
+02/07 | gamebook  | https://www.ctan.org/pkg/gamebook
 03/07 |  |
 04/07 |  |
 05/07 |  |
