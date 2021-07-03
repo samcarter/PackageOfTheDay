@@ -12,7 +12,7 @@ Day   | Package   | Link
 ----- | --------- | ---------------------------------- 
 01/07 | barracuda | https://www.ctan.org/pkg/barracuda
 02/07 | gamebook  | https://www.ctan.org/pkg/gamebook
-03/07 |  |
+03/07 | ccicons   | https://www.ctan.org/pkg/ccicons 
 04/07 |  |
 05/07 |  |
 06/07 |  |
