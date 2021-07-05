@@ -14,7 +14,7 @@ Day   | Package   | Link
 02/07 | gamebook  | https://www.ctan.org/pkg/gamebook
 03/07 | ccicons   | https://www.ctan.org/pkg/ccicons 
 04/07 | ffcode    | https://www.ctan.org/pkg/ffcode
-05/07 |  |
+05/07 | coffeestains | https://www.ctan.org/pkg/coffeestains
 06/07 |  |
 07/07 |  |
 08/07 |  |
