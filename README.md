@@ -15,7 +15,7 @@ Day   | Package   | Link
 03/07 | ccicons   | https://www.ctan.org/pkg/ccicons 
 04/07 | ffcode    | https://www.ctan.org/pkg/ffcode
 05/07 | coffeestains | https://www.ctan.org/pkg/coffeestains
-06/07 |  |
+06/07 | biblatex-cv | https://ctan.org/pkg/biblatex-cv
 07/07 |  |
 08/07 |  |
 09/07 |  |
