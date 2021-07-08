@@ -16,8 +16,8 @@ Day   | Package   | Link
 04/07 | ffcode    | https://www.ctan.org/pkg/ffcode
 05/07 | coffeestains | https://www.ctan.org/pkg/coffeestains
 06/07 | biblatex-cv | https://www.ctan.org/pkg/biblatex-cv
-07/07 |  |
-08/07 |  |
+07/07 | ctan-o-mat | https://www.ctan.org/pkg/ctan-o-mat
+08/07 | realhats  | https://www.ctan.org/pkg/realhats
 09/07 |  |
 10/07 |  |
 11/07 |  |
