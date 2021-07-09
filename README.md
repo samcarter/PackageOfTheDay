@@ -18,7 +18,7 @@ Day   | Package   | Link
 06/07 | biblatex-cv | https://www.ctan.org/pkg/biblatex-cv
 07/07 | ctan-o-mat | https://www.ctan.org/pkg/ctan-o-mat
 08/07 | realhats  | https://www.ctan.org/pkg/realhats
-09/07 |  |
+09/07 | fibnum    | https://www.ctan.org/pkg/fibnum
 10/07 |  |
 11/07 |  |
 12/07 |  |
