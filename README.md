@@ -19,7 +19,7 @@ Day   | Package   | Link
 07/07 | ctan-o-mat | https://www.ctan.org/pkg/ctan-o-mat
 08/07 | realhats  | https://www.ctan.org/pkg/realhats
 09/07 | fibnum    | https://www.ctan.org/pkg/fibnum
-10/07 |  |
+10/07 | papermas  | https://www.ctan.org/pkg/papermas
 11/07 |  |
 12/07 |  |
 13/07 |  |
