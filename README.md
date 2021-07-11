@@ -20,7 +20,7 @@ Day   | Package   | Link
 08/07 | realhats  | https://www.ctan.org/pkg/realhats
 09/07 | fibnum    | https://www.ctan.org/pkg/fibnum
 10/07 | papermas  | https://www.ctan.org/pkg/papermas
-11/07 |  |
+11/07 | tikz-planets | https://ctan.org/pkg/tikz-planets
 12/07 |  |
 13/07 |  |
 14/07 |  |
