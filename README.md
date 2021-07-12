@@ -21,7 +21,7 @@ Day   | Package   | Link
 09/07 | fibnum    | https://www.ctan.org/pkg/fibnum
 10/07 | papermas  | https://www.ctan.org/pkg/papermas
 11/07 | tikz-planets | https://ctan.org/pkg/tikz-planets
-12/07 |  |
+12/07 | babyloniannum | https://www.ctan.org/pkg/babyloniannum
 13/07 |  |
 14/07 |  |
 15/07 |  |
