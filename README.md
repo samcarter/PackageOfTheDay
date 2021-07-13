@@ -22,7 +22,7 @@ Day   | Package   | Link
 10/07 | papermas  | https://www.ctan.org/pkg/papermas
 11/07 | tikz-planets | https://ctan.org/pkg/tikz-planets
 12/07 | babyloniannum | https://www.ctan.org/pkg/babyloniannum
-13/07 |  |
+13/07 | worldflags | https://ctan.org/pkg/worldflags
 14/07 |  |
 15/07 |  |
 16/07 |  |
