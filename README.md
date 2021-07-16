@@ -25,7 +25,7 @@ Day   | Package   | Link
 13/07 | worldflags | https://ctan.org/pkg/worldflags
 14/07 | knitting  | https://www.ctan.org/pkg/knitting
 15/07 | tikz-trackschematic | https://ctan.org/pkg/tikz-trackschematic
-16/07 |  |
+16/07 | adforn    | https://www.ctan.org/pkg/adforn
 17/07 |  |
 18/07 |  |
 19/07 |  |
