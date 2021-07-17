@@ -26,7 +26,7 @@ Day   | Package   | Link
 14/07 | knitting  | https://www.ctan.org/pkg/knitting
 15/07 | tikz-trackschematic | https://ctan.org/pkg/tikz-trackschematic
 16/07 | adforn    | https://www.ctan.org/pkg/adforn
-17/07 |  |
+17/07 | simpsons  | https://www.ctan.org/pkg/simpsons
 18/07 |  |
 19/07 |  |
 20/07 |  |
