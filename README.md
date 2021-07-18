@@ -27,7 +27,7 @@ Day   | Package   | Link
 15/07 | tikz-trackschematic | https://ctan.org/pkg/tikz-trackschematic
 16/07 | adforn    | https://www.ctan.org/pkg/adforn
 17/07 | simpsons  | https://www.ctan.org/pkg/simpsons
-18/07 |  |
+18/07 | aobs-tikz | https://www.ctan.org/pkg/aobs-tikz
 19/07 |  |
 20/07 |  |
 21/07 |  |
