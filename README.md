@@ -28,7 +28,7 @@ Day   | Package   | Link
 16/07 | adforn    | https://www.ctan.org/pkg/adforn
 17/07 | simpsons  | https://www.ctan.org/pkg/simpsons
 18/07 | aobs-tikz | https://www.ctan.org/pkg/aobs-tikz
-19/07 |  |
+19/07 | ltx4yt    | https://www.ctan.org/pkg/ltx4yt
 20/07 |  |
 21/07 |  |
 22/07 |  |
