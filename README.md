@@ -29,7 +29,7 @@ Day   | Package   | Link
 17/07 | simpsons  | https://www.ctan.org/pkg/simpsons
 18/07 | aobs-tikz | https://www.ctan.org/pkg/aobs-tikz
 19/07 | ltx4yt    | https://www.ctan.org/pkg/ltx4yt
-20/07 |  |
+20/07 | xistercian | https://www.ctan.org/pkg/xistercian
 21/07 |  |
 22/07 |  |
 23/07 |  |
