@@ -30,7 +30,7 @@ Day   | Package   | Link
 18/07 | aobs-tikz | https://www.ctan.org/pkg/aobs-tikz
 19/07 | ltx4yt    | https://www.ctan.org/pkg/ltx4yt
 20/07 | xistercian | https://www.ctan.org/pkg/xistercian
-21/07 |  |
+21/07 | askinclude | https://www.ctan.org/pkg/askinclude
 22/07 |  |
 23/07 |  |
 24/07 |  |
