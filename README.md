@@ -31,7 +31,7 @@ Day   | Package   | Link
 19/07 | ltx4yt    | https://www.ctan.org/pkg/ltx4yt
 20/07 | xistercian | https://www.ctan.org/pkg/xistercian
 21/07 | askinclude | https://www.ctan.org/pkg/askinclude
-22/07 |  |
+22/07 | twemojis  | https://ctan.org/pkg/twemojis
 23/07 |  |
 24/07 |  |
 25/07 |  |
