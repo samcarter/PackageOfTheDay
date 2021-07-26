@@ -34,8 +34,8 @@ Day   | Package   | Link
 22/07 | twemojis  | https://ctan.org/pkg/twemojis
 23/07 | celtic    | https://www.ctan.org/pkg/celtic
 24/07 | albatross | https://www.ctan.org/pkg/albatross
-25/07 | bbcard | https://www.ctan.org/pkg/bbcard
-26/07 |  |
+25/07 | bbcard    | https://www.ctan.org/pkg/bbcard
+26/07 | dancers   | https://www.ctan.org/pkg/dancers
 27/07 |  |
 28/07 |  |
 29/07 |  |
