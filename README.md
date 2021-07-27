@@ -36,7 +36,7 @@ Day   | Package   | Link
 24/07 | albatross | https://www.ctan.org/pkg/albatross
 25/07 | bbcard    | https://www.ctan.org/pkg/bbcard
 26/07 | dancers   | https://www.ctan.org/pkg/dancers
-27/07 |  |
+27/07 | tonevalue | https://www.ctan.org/pkg/tonevalue
 28/07 |  |
 29/07 |  |
 30/07 |  |
