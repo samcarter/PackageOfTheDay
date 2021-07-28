@@ -37,7 +37,7 @@ Day   | Package   | Link
 25/07 | bbcard    | https://www.ctan.org/pkg/bbcard
 26/07 | dancers   | https://www.ctan.org/pkg/dancers
 27/07 | tonevalue | https://www.ctan.org/pkg/tonevalue
-28/07 |  |
+28/07 | circuitikz | https://www.ctan.org/pkg/circuitikz
 29/07 |  |
 30/07 |  |
 31/07 |  |
