@@ -38,7 +38,7 @@ Day   | Package   | Link
 26/07 | dancers   | https://www.ctan.org/pkg/dancers
 27/07 | tonevalue | https://www.ctan.org/pkg/tonevalue
 28/07 | circuitikz | https://www.ctan.org/pkg/circuitikz
-29/07 |  |
+29/07 | stampinclude | https://www.ctan.org/pkg/stampinclude
 30/07 |  |
 31/07 |  |
 01/08 |  |
