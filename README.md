@@ -40,7 +40,7 @@ Day   | Package   | Link
 28/07 | circuitikz | https://www.ctan.org/pkg/circuitikz
 29/07 | stampinclude | https://www.ctan.org/pkg/stampinclude
 30/07 | getmap    | https://www.ctan.org/pkg/getmap
-31/07 |  |
+31/07 | forest    | https://www.ctan.org/pkg/forest
 01/08 |  |
 02/08 |  |
 03/08 |  |
