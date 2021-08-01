@@ -41,7 +41,7 @@ Day   | Package   | Link
 29/07 | stampinclude | https://www.ctan.org/pkg/stampinclude
 30/07 | getmap    | https://www.ctan.org/pkg/getmap
 31/07 | forest    | https://www.ctan.org/pkg/forest
-01/08 |  |
+01/08 | allrunes  | https://www.ctan.org/pkg/allrunes
 02/08 |  |
 03/08 |  |
 04/08 |  |
