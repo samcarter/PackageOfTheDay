@@ -42,7 +42,7 @@ Day   | Package   | Link
 30/07 | getmap    | https://www.ctan.org/pkg/getmap
 31/07 | forest    | https://www.ctan.org/pkg/forest
 01/08 | allrunes  | https://www.ctan.org/pkg/allrunes
-02/08 |  |
+02/08 | bbding    | https://www.ctan.org/pkg/bbding
 03/08 |  |
 04/08 |  |
 05/08 |  |
