@@ -44,7 +44,7 @@ Day   | Package   | Link
 01/08 | allrunes  | https://www.ctan.org/pkg/allrunes
 02/08 | bbding    | https://www.ctan.org/pkg/bbding
 03/08 | battleship | https://www.ctan.org/pkg/battleship
-04/08 |  |
+04/08 | graphicscache | https://ctan.org/pkg/graphicscache
 05/08 |  |
 06/08 |  |
 07/08 |  |
