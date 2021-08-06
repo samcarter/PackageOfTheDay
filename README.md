@@ -46,7 +46,7 @@ Day   | Package   | Link
 03/08 | battleship | https://www.ctan.org/pkg/battleship
 04/08 | graphicscache | https://www.ctan.org/pkg/graphicscache
 05/08 | acromemory | https://www.ctan.org/pkg/acromemory
-06/08 |  |
+06/08 | lua-ul    | https://www.ctan.org/pkg/lua-ul
 07/08 |  |
 08/08 |  |
 09/08 |  |
