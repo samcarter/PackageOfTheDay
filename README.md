@@ -48,7 +48,7 @@ Day   | Package   | Link
 05/08 | acromemory | https://www.ctan.org/pkg/acromemory
 06/08 | lua-ul    | https://www.ctan.org/pkg/lua-ul
 07/08 | tikz-among-us | https://www.ctan.org/pkg/tikz-among-us
-08/08 |  |
+08/08 | lua-typo  | https://www.ctan.org/pkg/lua-typo
 09/08 |  |
 10/08 |  |
 11/08 |  |
