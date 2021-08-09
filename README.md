@@ -49,7 +49,7 @@ Day   | Package   | Link
 06/08 | lua-ul    | https://www.ctan.org/pkg/lua-ul
 07/08 | tikz-among-us | https://www.ctan.org/pkg/tikz-among-us
 08/08 | lua-typo  | https://www.ctan.org/pkg/lua-typo
-09/08 |  |
+09/08 | awesomebox | https://www.ctan.org/pkg/awesomebox
 10/08 |  |
 11/08 |  |
 12/08 |  |
