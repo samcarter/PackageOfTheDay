@@ -50,7 +50,7 @@ Day   | Package   | Link
 07/08 | tikz-among-us | https://www.ctan.org/pkg/tikz-among-us
 08/08 | lua-typo  | https://www.ctan.org/pkg/lua-typo
 09/08 | awesomebox | https://www.ctan.org/pkg/awesomebox
-10/08 |  |
+10/08 | aeb_dad   | https://www.ctan.org/pkg/aeb_dad
 11/08 |  |
 12/08 |  |
 13/08 |  |
