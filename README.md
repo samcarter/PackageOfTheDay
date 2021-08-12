@@ -52,7 +52,7 @@ Day   | Package   | Link
 09/08 | awesomebox | https://www.ctan.org/pkg/awesomebox
 10/08 | aeb_dad   | https://www.ctan.org/pkg/aeb_dad
 11/08 | expkv     | https://ctan.org/pkg/expkv
-12/08 |  |
+12/08 | ticollege | https://www.ctan.org/pkg/ticollege
 13/08 |  |
 14/08 |  |
 15/08 |  |
