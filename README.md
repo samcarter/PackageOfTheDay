@@ -53,7 +53,7 @@ Day   | Package   | Link
 10/08 | aeb_dad   | https://www.ctan.org/pkg/aeb_dad
 11/08 | expkv     | https://www.ctan.org/pkg/expkv
 12/08 | ticollege | https://www.ctan.org/pkg/ticollege
-13/08 |  |
+13/08 | circledsteps | https://www.ctan.org/pkg/circledsteps
 14/08 |  |
 15/08 |  |
 16/08 |  |
