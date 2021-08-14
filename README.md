@@ -54,7 +54,7 @@ Day   | Package   | Link
 11/08 | expkv     | https://www.ctan.org/pkg/expkv
 12/08 | ticollege | https://www.ctan.org/pkg/ticollege
 13/08 | circledsteps | https://www.ctan.org/pkg/circledsteps
-14/08 | realtranspose | https://ctan.org/pkg/realtranspose
+14/08 | realtranspose | https://www.ctan.org/pkg/realtranspose
 15/08 |  |
 16/08 |  |
 17/08 |  |
