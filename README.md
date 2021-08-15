@@ -55,7 +55,7 @@ Day   | Package   | Link
 12/08 | ticollege | https://www.ctan.org/pkg/ticollege
 13/08 | circledsteps | https://www.ctan.org/pkg/circledsteps
 14/08 | realtranspose | https://www.ctan.org/pkg/realtranspose
-15/08 |  |
+15/08 | mahjong | https://www.ctan.org/pkg/mahjong
 16/08 |  |
 17/08 |  |
 18/08 |  |
