@@ -56,7 +56,7 @@ Day   | Package   | Link
 13/08 | circledsteps | https://www.ctan.org/pkg/circledsteps
 14/08 | realtranspose | https://www.ctan.org/pkg/realtranspose
 15/08 | mahjong | https://www.ctan.org/pkg/mahjong
-16/08 |  |
+16/08 | cfr-initials | https://www.ctan.org/pkg/cfr-initials
 17/08 |  |
 18/08 |  |
 19/08 |  |
