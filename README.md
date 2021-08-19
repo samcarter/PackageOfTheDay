@@ -59,7 +59,7 @@ Day   | Package   | Link
 16/08 | cfr-initials | https://www.ctan.org/pkg/cfr-initials
 17/08 | ducksay   | https://www.ctan.org/pkg/ducksay
 18/08 | xskak     | https://www.ctan.org/pkg/xskak
-19/08 |  |
+19/08 | chordbox  | https://www.ctan.org/pkg/chordbox
 20/08 |  |
 21/08 |  |
 22/08 |  |
