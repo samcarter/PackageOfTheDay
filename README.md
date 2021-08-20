@@ -60,7 +60,7 @@ Day   | Package   | Link
 17/08 | ducksay   | https://www.ctan.org/pkg/ducksay
 18/08 | xskak     | https://www.ctan.org/pkg/xskak
 19/08 | chordbox  | https://www.ctan.org/pkg/chordbox
-20/08 |  |
+20/08 | thorshammer | https://www.ctan.org/pkg/thorshammer
 21/08 |  |
 22/08 |  |
 23/08 |  |
