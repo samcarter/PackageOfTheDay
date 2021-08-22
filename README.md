@@ -62,7 +62,7 @@ Day   | Package   | Link
 19/08 | chordbox  | https://www.ctan.org/pkg/chordbox
 20/08 | thorshammer | https://www.ctan.org/pkg/thorshammer
 21/08 | crossword | https://www.ctan.org/pkg/crossword
-22/08 |  |
+22/08 | bclogo    | https://www.ctan.org/pkg/bclogo
 23/08 |  |
 24/08 |  |
 25/08 |  |
