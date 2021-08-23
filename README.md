@@ -63,7 +63,7 @@ Day   | Package   | Link
 20/08 | thorshammer | https://www.ctan.org/pkg/thorshammer
 21/08 | crossword | https://www.ctan.org/pkg/crossword
 22/08 | bclogo    | https://www.ctan.org/pkg/bclogo
-23/08 |  |
+23/08 | archaic   | https://www.ctan.org/pkg/archaic
 24/08 |  |
 25/08 |  |
 26/08 |  |
