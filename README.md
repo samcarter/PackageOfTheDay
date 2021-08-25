@@ -65,7 +65,7 @@ Day   | Package   | Link
 22/08 | bclogo    | https://www.ctan.org/pkg/bclogo
 23/08 | archaic   | https://www.ctan.org/pkg/archaic
 24/08 | gamebooklib | https://www.ctan.org/pkg/gamebooklib
-25/08 |  |
+25/08 | tikztosvg | https://www.ctan.org/pkg/tikztosvg
 26/08 |  |
 27/08 |  | 
 28/08 |  |
