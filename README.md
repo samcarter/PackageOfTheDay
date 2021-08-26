@@ -66,7 +66,7 @@ Day   | Package   | Link
 23/08 | archaic   | https://www.ctan.org/pkg/archaic
 24/08 | gamebooklib | https://www.ctan.org/pkg/gamebooklib
 25/08 | tikztosvg | https://www.ctan.org/pkg/tikztosvg
-26/08 |  |
+26/08 | mwe       | https://www.ctan.org/pkg/mwe
 27/08 |  | 
 28/08 |  |
 29/08 |  |
