@@ -67,7 +67,7 @@ Day   | Package   | Link
 24/08 | gamebooklib | https://www.ctan.org/pkg/gamebooklib
 25/08 | tikztosvg | https://www.ctan.org/pkg/tikztosvg
 26/08 | mwe       | https://www.ctan.org/pkg/mwe
-27/08 |  | 
+27/08 | beameraudience | https://www.ctan.org/pkg/beameraudience
 28/08 |  |
 29/08 |  |
 30/08 |  |
