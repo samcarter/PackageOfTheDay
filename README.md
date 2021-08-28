@@ -68,7 +68,7 @@ Day   | Package   | Link
 25/08 | tikztosvg | https://www.ctan.org/pkg/tikztosvg
 26/08 | mwe       | https://www.ctan.org/pkg/mwe
 27/08 | beameraudience | https://www.ctan.org/pkg/beameraudience
-28/08 |  |
+28/08 | clrstrip  | https://www.ctan.org/pkg/clrstrip
 29/08 |  |
 30/08 |  |
 31/08 |  |
