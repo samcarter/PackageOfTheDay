@@ -69,7 +69,7 @@ Day   | Package   | Link
 26/08 | mwe       | https://www.ctan.org/pkg/mwe
 27/08 | beameraudience | https://www.ctan.org/pkg/beameraudience
 28/08 | clrstrip  | https://www.ctan.org/pkg/clrstrip
-29/08 |  |
+29/08 | chronosys | https://www.ctan.org/pkg/chronosys
 30/08 |  |
 31/08 |  |
 01/09 |  |
