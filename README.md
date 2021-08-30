@@ -70,7 +70,7 @@ Day   | Package   | Link
 27/08 | beameraudience | https://www.ctan.org/pkg/beameraudience
 28/08 | clrstrip  | https://www.ctan.org/pkg/clrstrip
 29/08 | chronosys | https://www.ctan.org/pkg/chronosys
-30/08 |  |
+30/08 | cooltooltips | https://www.ctan.org/pkg/cooltooltips
 31/08 |  |
 01/09 |  |
 02/09 |  |
