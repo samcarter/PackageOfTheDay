@@ -72,7 +72,7 @@ Day   | Package   | Link
 29/08 | chronosys | https://www.ctan.org/pkg/chronosys
 30/08 | cooltooltips | https://www.ctan.org/pkg/cooltooltips
 31/08 | romanbarpagenumber | https://www.ctan.org/pkg/romanbarpagenumber
-01/09 |  |
+01/09 | styledcmd | https://www.ctan.org/pkg/styledcmd
 02/09 |  |
 03/09 |  |
 04/09 |  |
