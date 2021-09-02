@@ -73,7 +73,7 @@ Day   | Package   | Link
 30/08 | cooltooltips | https://www.ctan.org/pkg/cooltooltips
 31/08 | romanbarpagenumber | https://www.ctan.org/pkg/romanbarpagenumber
 01/09 | styledcmd | https://www.ctan.org/pkg/styledcmd
-02/09 |  |
+02/09 | callouts  | https://www.ctan.org/pkg/callouts
 03/09 |  |
 04/09 |  |
 05/09 |  |
