@@ -74,7 +74,7 @@ Day   | Package   | Link
 31/08 | romanbarpagenumber | https://www.ctan.org/pkg/romanbarpagenumber
 01/09 | styledcmd | https://www.ctan.org/pkg/styledcmd
 02/09 | callouts  | https://www.ctan.org/pkg/callouts
-03/09 |  |
+03/09 | gs1       | https://www.ctan.org/pkg/gs1
 04/09 |  |
 05/09 |  |
 06/09 |  |
