@@ -75,7 +75,7 @@ Day   | Package   | Link
 01/09 | styledcmd | https://www.ctan.org/pkg/styledcmd
 02/09 | callouts  | https://www.ctan.org/pkg/callouts
 03/09 | gs1       | https://www.ctan.org/pkg/gs1
-04/09 |  |
+04/09 | pgf-spectra | https://www.ctan.org/pkg/pgf-spectra
 05/09 |  |
 06/09 |  |
 07/09 |  |
