@@ -76,7 +76,7 @@ Day   | Package   | Link
 02/09 | callouts  | https://www.ctan.org/pkg/callouts
 03/09 | gs1       | https://www.ctan.org/pkg/gs1
 04/09 | pgf-spectra | https://www.ctan.org/pkg/pgf-spectra
-05/09 |  |
+05/09 | tipfr     | https://www.ctan.org/pkg/tipfr
 06/09 |  |
 07/09 |  |
 08/09 |  |
