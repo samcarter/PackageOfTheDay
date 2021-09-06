@@ -77,7 +77,7 @@ Day   | Package   | Link
 03/09 | gs1       | https://www.ctan.org/pkg/gs1
 04/09 | pgf-spectra | https://www.ctan.org/pkg/pgf-spectra
 05/09 | tipfr     | https://www.ctan.org/pkg/tipfr
-06/09 |  |
+06/09 | crumbs    | https://www.ctan.org/pkg/crumbs
 07/09 |  |
 08/09 |  |
 09/09 |  |
