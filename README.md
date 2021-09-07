@@ -78,7 +78,7 @@ Day   | Package   | Link
 04/09 | pgf-spectra | https://www.ctan.org/pkg/pgf-spectra
 05/09 | tipfr     | https://www.ctan.org/pkg/tipfr
 06/09 | crumbs    | https://www.ctan.org/pkg/crumbs
-07/09 |  |
+07/09 | animate   | https://www.ctan.org/pkg/animate
 08/09 |  |
 09/09 |  |
 10/09 |  |
