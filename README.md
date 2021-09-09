@@ -80,8 +80,8 @@ Day   | Package   | Link
 06/09 | crumbs    | https://www.ctan.org/pkg/crumbs
 07/09 | animate   | https://www.ctan.org/pkg/animate
 08/09 | braids    | https://www.ctan.org/pkg/braids
-09/09 |  |
-10/09 |  |
+09/09 | hieroglf  | https://www.ctan.org/pkg/hieroglf
+10/09 |  | 
 11/09 |  |
 12/09 |  |
 13/09 |  |
