@@ -82,7 +82,7 @@ Day   | Package   | Link
 08/09 | braids    | https://www.ctan.org/pkg/braids
 09/09 | hieroglf  | https://www.ctan.org/pkg/hieroglf
 10/09 | biblatex-ext | https://ctan.org/pkg/biblatex-ext
-11/09 |  |
+11/09 | palette   | https://www.ctan.org/pkg/palette
 12/09 |  |
 13/09 |  |
 14/09 |  |
