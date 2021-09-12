@@ -83,7 +83,7 @@ Day   | Package   | Link
 09/09 | hieroglf  | https://www.ctan.org/pkg/hieroglf
 10/09 | biblatex-ext | https://ctan.org/pkg/biblatex-ext
 11/09 | palette   | https://www.ctan.org/pkg/palette
-12/09 |  |
+12/09 | chickenize | https://www.ctan.org/pkg/chickenize  
 13/09 |  |
 14/09 |  |
 15/09 |  |
