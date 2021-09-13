@@ -84,7 +84,7 @@ Day   | Package   | Link
 10/09 | biblatex-ext | https://ctan.org/pkg/biblatex-ext
 11/09 | palette   | https://www.ctan.org/pkg/palette
 12/09 | chickenize | https://www.ctan.org/pkg/chickenize  
-13/09 |  |
+13/09 | beamerappendixnote | https://www.ctan.org/pkg/beamerappendixnote
 14/09 |  |
 15/09 |  |
 16/09 |  |
