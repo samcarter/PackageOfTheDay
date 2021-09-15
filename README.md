@@ -86,7 +86,7 @@ Day   | Package   | Link
 12/09 | chickenize | https://www.ctan.org/pkg/chickenize  
 13/09 | beamerappendixnote | https://www.ctan.org/pkg/beamerappendixnote
 14/09 | dictsym   | https://www.ctan.org/pkg/dictsym
-15/09 |  |
+15/09 | ransom    | https://www.ctan.org/pkg/ransom
 16/09 |  |
 17/09 |  |
 18/09 |  |
