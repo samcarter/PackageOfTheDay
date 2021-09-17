@@ -87,8 +87,8 @@ Day   | Package   | Link
 13/09 | beamerappendixnote | https://www.ctan.org/pkg/beamerappendixnote
 14/09 | dictsym   | https://www.ctan.org/pkg/dictsym
 15/09 | ransom    | https://www.ctan.org/pkg/ransom
-16/09 | cleveref  | https://ctan.org/pkg/cleveref
-17/09 |  |
+16/09 | cleveref  | https://www.ctan.org/pkg/cleveref
+17/09 | zref-check | https://www.ctan.org/pkg/zref-check
 18/09 |  |
 19/09 |  |
 20/09 |  |
