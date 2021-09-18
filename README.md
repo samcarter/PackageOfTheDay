@@ -89,7 +89,7 @@ Day   | Package   | Link
 15/09 | ransom    | https://www.ctan.org/pkg/ransom
 16/09 | cleveref  | https://www.ctan.org/pkg/cleveref
 17/09 | zref-check | https://www.ctan.org/pkg/zref-check
-18/09 |  |
+18/09 | reverxii  | https://ctan.org/pkg/reverxii
 19/09 |  |
 20/09 |  |
 21/09 |  |
