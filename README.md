@@ -16,7 +16,7 @@ Day   | Package   | Link
 04/07 | ffcode    | https://www.ctan.org/pkg/ffcode
 05/07 | coffeestains | https://www.ctan.org/pkg/coffeestains
 06/07 | biblatex-cv | https://www.ctan.org/pkg/biblatex-cv
-07/07 | ctan-o-mat | https://www.ctan.org/pkg/ctan-o-mat
+07/07 | ctan-o-mat| https://www.ctan.org/pkg/ctan-o-mat
 08/07 | realhats  | https://www.ctan.org/pkg/realhats
 09/07 | fibnum    | https://www.ctan.org/pkg/fibnum
 10/07 | papermas  | https://www.ctan.org/pkg/papermas
@@ -81,7 +81,7 @@ Day   | Package   | Link
 07/09 | animate   | https://www.ctan.org/pkg/animate
 08/09 | braids    | https://www.ctan.org/pkg/braids
 09/09 | hieroglf  | https://www.ctan.org/pkg/hieroglf
-10/09 | biblatex-ext | https://ctan.org/pkg/biblatex-ext
+10/09 | biblatex-ext | https://www.ctan.org/pkg/biblatex-ext
 11/09 | palette   | https://www.ctan.org/pkg/palette
 12/09 | chickenize | https://www.ctan.org/pkg/chickenize  
 13/09 | beamerappendixnote | https://www.ctan.org/pkg/beamerappendixnote
@@ -89,7 +89,7 @@ Day   | Package   | Link
 15/09 | ransom    | https://www.ctan.org/pkg/ransom
 16/09 | cleveref  | https://www.ctan.org/pkg/cleveref
 17/09 | zref-check | https://www.ctan.org/pkg/zref-check
-18/09 | reverxii  | https://ctan.org/pkg/reverxii
+18/09 | reverxii  | https://www.ctan.org/pkg/reverxii
 19/09 |  |
 20/09 |  |
 21/09 |  |
