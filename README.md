@@ -90,7 +90,7 @@ Day   | Package   | Link
 16/09 | cleveref  | https://www.ctan.org/pkg/cleveref
 17/09 | zref-check | https://www.ctan.org/pkg/zref-check
 18/09 | reverxii  | https://www.ctan.org/pkg/reverxii
-19/09 |  |
+19/09 | dirtytalk | https://www.ctan.org/pkg/dirtytalk
 20/09 |  |
 21/09 |  |
 22/09 |  |
