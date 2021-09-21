@@ -92,7 +92,7 @@ Day   | Package   | Link
 18/09 | reverxii  | https://www.ctan.org/pkg/reverxii
 19/09 | dirtytalk | https://www.ctan.org/pkg/dirtytalk
 20/09 | TikZducks | https://www.ctan.org/pkg/tikzducks
-21/09 |  |
+21/09 | luapstricks | https://www.ctan.org/pkg/luapstricks
 22/09 |  |
 23/09 |  |
 24/09 |  |
