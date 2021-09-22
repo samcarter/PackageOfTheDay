@@ -93,7 +93,7 @@ Day   | Package   | Link
 19/09 | dirtytalk | https://www.ctan.org/pkg/dirtytalk
 20/09 | TikZducks | https://www.ctan.org/pkg/tikzducks
 21/09 | luapstricks | https://www.ctan.org/pkg/luapstricks
-22/09 |  |
+22/09 | catchfilebetweentags | https://www.ctan.org/pkg/catchfilebetweentags
 23/09 |  |
 24/09 |  |
 25/09 |  |
