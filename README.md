@@ -94,7 +94,7 @@ Day   | Package   | Link
 20/09 | TikZducks | https://www.ctan.org/pkg/tikzducks
 21/09 | luapstricks | https://www.ctan.org/pkg/luapstricks
 22/09 | catchfilebetweentags | https://www.ctan.org/pkg/catchfilebetweentags
-23/09 |  |
+23/09 | spacingtricks | https://www.ctan.org/pkg/spacingtricks
 24/09 |  |
 25/09 |  |
 26/09 |  |
