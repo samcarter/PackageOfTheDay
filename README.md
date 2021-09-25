@@ -96,7 +96,7 @@ Day   | Package   | Link
 22/09 | catchfilebetweentags | https://www.ctan.org/pkg/catchfilebetweentags
 23/09 | spacingtricks | https://www.ctan.org/pkg/spacingtricks
 24/09 | pxpic     | https://www.ctan.org/pkg/pxpic
-25/09 |  |
+25/09 | attachfile2 | https://www.ctan.org/pkg/attachfile2
 26/09 |  |
 27/09 |  |
 28/09 |  |
