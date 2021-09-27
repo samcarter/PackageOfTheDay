@@ -97,8 +97,8 @@ Day   | Package   | Link
 23/09 | spacingtricks | https://www.ctan.org/pkg/spacingtricks
 24/09 | pxpic     | https://www.ctan.org/pkg/pxpic
 25/09 | attachfile2 | https://www.ctan.org/pkg/attachfile2
-27/09 |  |
 26/09 | arraycols | https://www.ctan.org/pkg/arraycols
+27/09 | acromemory | https://www.ctan.org/pkg/acromemory
 28/09 |  |
 29/09 |  |
 30/09 |  |
