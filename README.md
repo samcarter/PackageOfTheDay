@@ -100,9 +100,9 @@ Day   | Package   | Link
 26/09 | arraycols | https://www.ctan.org/pkg/arraycols
 27/09 | acromemory | https://www.ctan.org/pkg/acromemory
 28/09 | etoc      | https://www.ctan.org/pkg/etoc
-29/09 | keyfloat | https://www.ctan.org/pkg/keyfloat
-30/09 |  |
 01/10 |  |
+29/09 | keyfloat  | https://www.ctan.org/pkg/keyfloat
+30/09 | codehigh  | https://www.ctan.org/pkg/codehigh
 02/10 |  |
 03/10 |  |
 04/10 |  |
