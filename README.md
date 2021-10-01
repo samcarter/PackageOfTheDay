@@ -10,99 +10,99 @@ As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon cel
 
 Day   | Package   | Link 
 ----- | --------- | ---------------------------------- 
-01/07 | barracuda | https://www.ctan.org/pkg/barracuda
-02/07 | gamebook  | https://www.ctan.org/pkg/gamebook
-03/07 | ccicons   | https://www.ctan.org/pkg/ccicons 
-04/07 | ffcode    | https://www.ctan.org/pkg/ffcode
-05/07 | coffeestains | https://www.ctan.org/pkg/coffeestains
-06/07 | biblatex-cv | https://www.ctan.org/pkg/biblatex-cv
-07/07 | ctan-o-mat| https://www.ctan.org/pkg/ctan-o-mat
-08/07 | realhats  | https://www.ctan.org/pkg/realhats
-09/07 | fibnum    | https://www.ctan.org/pkg/fibnum
-10/07 | papermas  | https://www.ctan.org/pkg/papermas
-11/07 | tikz-planets | https://www.ctan.org/pkg/tikz-planets
-12/07 | babyloniannum | https://www.ctan.org/pkg/babyloniannum
-13/07 | worldflags | https://www.ctan.org/pkg/worldflags
-14/07 | knitting  | https://www.ctan.org/pkg/knitting
-15/07 | tikz-trackschematic | https://www.ctan.org/pkg/tikz-trackschematic
-16/07 | adforn    | https://www.ctan.org/pkg/adforn
-17/07 | simpsons  | https://www.ctan.org/pkg/simpsons
-18/07 | aobs-tikz | https://www.ctan.org/pkg/aobs-tikz
-19/07 | ltx4yt    | https://www.ctan.org/pkg/ltx4yt
-20/07 | xistercian | https://www.ctan.org/pkg/xistercian
-21/07 | askinclude | https://www.ctan.org/pkg/askinclude
-22/07 | twemojis  | https://www.ctan.org/pkg/twemojis
-23/07 | celtic    | https://www.ctan.org/pkg/celtic
-24/07 | albatross | https://www.ctan.org/pkg/albatross
-25/07 | bbcard    | https://www.ctan.org/pkg/bbcard
-26/07 | dancers   | https://www.ctan.org/pkg/dancers
-27/07 | tonevalue | https://www.ctan.org/pkg/tonevalue
-28/07 | circuitikz | https://www.ctan.org/pkg/circuitikz
-29/07 | stampinclude | https://www.ctan.org/pkg/stampinclude
-30/07 | getmap    | https://www.ctan.org/pkg/getmap
-31/07 | forest    | https://www.ctan.org/pkg/forest
-01/08 | allrunes  | https://www.ctan.org/pkg/allrunes
-02/08 | bbding    | https://www.ctan.org/pkg/bbding
-03/08 | battleship | https://www.ctan.org/pkg/battleship
-04/08 | graphicscache | https://www.ctan.org/pkg/graphicscache
-05/08 | acromemory | https://www.ctan.org/pkg/acromemory
-06/08 | lua-ul    | https://www.ctan.org/pkg/lua-ul
-07/08 | tikz-among-us | https://www.ctan.org/pkg/tikz-among-us
-08/08 | lua-typo  | https://www.ctan.org/pkg/lua-typo
-09/08 | awesomebox | https://www.ctan.org/pkg/awesomebox
-10/08 | aeb_dad   | https://www.ctan.org/pkg/aeb_dad
-11/08 | expkv     | https://www.ctan.org/pkg/expkv
-12/08 | ticollege | https://www.ctan.org/pkg/ticollege
-13/08 | circledsteps | https://www.ctan.org/pkg/circledsteps
-14/08 | realtranspose | https://www.ctan.org/pkg/realtranspose
-15/08 | mahjong | https://www.ctan.org/pkg/mahjong
-16/08 | cfr-initials | https://www.ctan.org/pkg/cfr-initials
-17/08 | ducksay   | https://www.ctan.org/pkg/ducksay
-18/08 | xskak     | https://www.ctan.org/pkg/xskak
-19/08 | chordbox  | https://www.ctan.org/pkg/chordbox
-20/08 | thorshammer | https://www.ctan.org/pkg/thorshammer
-21/08 | crossword | https://www.ctan.org/pkg/crossword
-22/08 | bclogo    | https://www.ctan.org/pkg/bclogo
-23/08 | archaic   | https://www.ctan.org/pkg/archaic
-24/08 | gamebooklib | https://www.ctan.org/pkg/gamebooklib
-25/08 | tikztosvg | https://www.ctan.org/pkg/tikztosvg
-26/08 | mwe       | https://www.ctan.org/pkg/mwe
-27/08 | beameraudience | https://www.ctan.org/pkg/beameraudience
-28/08 | clrstrip  | https://www.ctan.org/pkg/clrstrip
-29/08 | chronosys | https://www.ctan.org/pkg/chronosys
-30/08 | cooltooltips | https://www.ctan.org/pkg/cooltooltips
-31/08 | romanbarpagenumber | https://www.ctan.org/pkg/romanbarpagenumber
-01/09 | styledcmd | https://www.ctan.org/pkg/styledcmd
-02/09 | callouts  | https://www.ctan.org/pkg/callouts
-03/09 | gs1       | https://www.ctan.org/pkg/gs1
-04/09 | pgf-spectra | https://www.ctan.org/pkg/pgf-spectra
-05/09 | tipfr     | https://www.ctan.org/pkg/tipfr
-06/09 | crumbs    | https://www.ctan.org/pkg/crumbs
-07/09 | animate   | https://www.ctan.org/pkg/animate
-08/09 | braids    | https://www.ctan.org/pkg/braids
-09/09 | hieroglf  | https://www.ctan.org/pkg/hieroglf
-10/09 | biblatex-ext | https://www.ctan.org/pkg/biblatex-ext
-11/09 | palette   | https://www.ctan.org/pkg/palette
-12/09 | chickenize | https://www.ctan.org/pkg/chickenize  
-13/09 | beamerappendixnote | https://www.ctan.org/pkg/beamerappendixnote
-14/09 | dictsym   | https://www.ctan.org/pkg/dictsym
-15/09 | ransom    | https://www.ctan.org/pkg/ransom
-16/09 | cleveref  | https://www.ctan.org/pkg/cleveref
-17/09 | zref-check | https://www.ctan.org/pkg/zref-check
-18/09 | reverxii  | https://www.ctan.org/pkg/reverxii
-19/09 | dirtytalk | https://www.ctan.org/pkg/dirtytalk
-20/09 | TikZducks | https://www.ctan.org/pkg/tikzducks
-21/09 | luapstricks | https://www.ctan.org/pkg/luapstricks
-22/09 | catchfilebetweentags | https://www.ctan.org/pkg/catchfilebetweentags
-23/09 | spacingtricks | https://www.ctan.org/pkg/spacingtricks
-24/09 | pxpic     | https://www.ctan.org/pkg/pxpic
-25/09 | attachfile2 | https://www.ctan.org/pkg/attachfile2
-26/09 | arraycols | https://www.ctan.org/pkg/arraycols
-27/09 | acromemory | https://www.ctan.org/pkg/acromemory
-28/09 | etoc      | https://www.ctan.org/pkg/etoc
-29/09 | keyfloat  | https://www.ctan.org/pkg/keyfloat
-30/09 | codehigh  | https://www.ctan.org/pkg/codehigh
-01/10 | tikz-palattice | https://www.ctan.org/pkg/tikz-palattice
+01/07 | barracuda | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
+02/07 | gamebook  | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
+03/07 | ccicons   | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
+04/07 | ffcode    | [[CTAN](https://www.ctan.org/pkg/ffcode)]&emsp;[[Documentation](https://texdoc.org/pkg/ffcode)]
+05/07 | coffeestains | [[CTAN](https://www.ctan.org/pkg/coffeestains)]&emsp;[[Documentation](https://texdoc.org/pkg/coffeestains)]
+06/07 | biblatex-cv | [[CTAN](https://www.ctan.org/pkg/biblatex-cv)]&emsp;[[Documentation](https://texdoc.org/pkg/biblatex-cv)]
+07/07 | ctan-o-mat| [[CTAN](https://www.ctan.org/pkg/ctan-o-mat)]&emsp;[[Documentation](https://texdoc.org/pkg/ctan-o-mat)]
+08/07 | realhats  | [[CTAN](https://www.ctan.org/pkg/realhats)]&emsp;[[Documentation](https://texdoc.org/pkg/realhats)]
+09/07 | fibnum    | [[CTAN](https://www.ctan.org/pkg/fibnum)]&emsp;[[Documentation](https://texdoc.org/pkg/fibnum)]
+10/07 | papermas  | [[CTAN](https://www.ctan.org/pkg/papermas)]&emsp;[[Documentation](https://texdoc.org/pkg/papermas)]
+11/07 | tikz-planets | [[CTAN](https://www.ctan.org/pkg/tikz-planets)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-planets)]
+12/07 | babyloniannum | [[CTAN](https://www.ctan.org/pkg/babyloniannum)]&emsp;[[Documentation](https://texdoc.org/pkg/babyloniannum)]
+13/07 | worldflags | [[CTAN](https://www.ctan.org/pkg/worldflags)]&emsp;[[Documentation](https://texdoc.org/pkg/worldflags)]
+14/07 | knitting  | [[CTAN](https://www.ctan.org/pkg/knitting)]&emsp;[[Documentation](https://texdoc.org/pkg/knitting)]
+15/07 | tikz-trackschematic | [[CTAN](https://www.ctan.org/pkg/tikz-trackschematic)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-trackschematic)]
+16/07 | adforn    | [[CTAN](https://www.ctan.org/pkg/adforn)]&emsp;[[Documentation](https://texdoc.org/pkg/adforn)]
+17/07 | simpsons  | [[CTAN](https://www.ctan.org/pkg/simpsons)]&emsp;[[Documentation](https://texdoc.org/pkg/simpsons)]
+18/07 | aobs-tikz | [[CTAN](https://www.ctan.org/pkg/aobs-tikz)]&emsp;[[Documentation](https://texdoc.org/pkg/aobs-tikz)]
+19/07 | ltx4yt    | [[CTAN](https://www.ctan.org/pkg/ltx4yt)]&emsp;[[Documentation](https://texdoc.org/pkg/ltx4yt)]
+20/07 | xistercian | [[CTAN](https://www.ctan.org/pkg/xistercian)]&emsp;[[Documentation](https://texdoc.org/pkg/xistercian)]
+21/07 | askinclude | [[CTAN](https://www.ctan.org/pkg/askinclude)]&emsp;[[Documentation](https://texdoc.org/pkg/askinclude)]
+22/07 | twemojis  | [[CTAN](https://www.ctan.org/pkg/twemojis)]&emsp;[[Documentation](https://texdoc.org/pkg/twemojis)]
+23/07 | celtic    | [[CTAN](https://www.ctan.org/pkg/celtic)]&emsp;[[Documentation](https://texdoc.org/pkg/celtic)]
+24/07 | albatross | [[CTAN](https://www.ctan.org/pkg/albatross)]&emsp;[[Documentation](https://texdoc.org/pkg/albatross)]
+25/07 | bbcard    | [[CTAN](https://www.ctan.org/pkg/bbcard)]&emsp;[[Documentation](https://texdoc.org/pkg/bbcard)]
+26/07 | dancers   | [[CTAN](https://www.ctan.org/pkg/dancers)]&emsp;[[Documentation](https://texdoc.org/pkg/dancers)]
+27/07 | tonevalue | [[CTAN](https://www.ctan.org/pkg/tonevalue)]&emsp;[[Documentation](https://texdoc.org/pkg/tonevalue)]
+28/07 | circuitikz | [[CTAN](https://www.ctan.org/pkg/circuitikz)]&emsp;[[Documentation](https://texdoc.org/pkg/circuitikz)]
+29/07 | stampinclude | [[CTAN](https://www.ctan.org/pkg/stampinclude)]&emsp;[[Documentation](https://texdoc.org/pkg/stampinclude)]
+30/07 | getmap    | [[CTAN](https://www.ctan.org/pkg/getmap)]&emsp;[[Documentation](https://texdoc.org/pkg/getmap)]
+31/07 | forest    | [[CTAN](https://www.ctan.org/pkg/forest)]&emsp;[[Documentation](https://texdoc.org/pkg/forest)]
+01/08 | allrunes  | [[CTAN](https://www.ctan.org/pkg/allrunes)]&emsp;[[Documentation](https://texdoc.org/pkg/allrunes)]
+02/08 | bbding    | [[CTAN](https://www.ctan.org/pkg/bbding)]&emsp;[[Documentation](https://texdoc.org/pkg/bbding)]
+03/08 | battleship | [[CTAN](https://www.ctan.org/pkg/battleship)]&emsp;[[Documentation](https://texdoc.org/pkg/battleship)]
+04/08 | graphicscache | [[CTAN](https://www.ctan.org/pkg/graphicscache)]&emsp;[[Documentation](https://texdoc.org/pkg/graphicscache)]
+05/08 | acromemory | [[CTAN](https://www.ctan.org/pkg/acromemory)]&emsp;[[Documentation](https://texdoc.org/pkg/acromemory)]
+06/08 | lua-ul    | [[CTAN](https://www.ctan.org/pkg/lua-ul)]&emsp;[[Documentation](https://texdoc.org/pkg/lua-ul)]
+07/08 | tikz-among-us | [[CTAN](https://www.ctan.org/pkg/tikz-among-us)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-among-us)]
+08/08 | lua-typo  | [[CTAN](https://www.ctan.org/pkg/lua-typo)]&emsp;[[Documentation](https://texdoc.org/pkg/lua-typo)]
+09/08 | awesomebox | [[CTAN](https://www.ctan.org/pkg/awesomebox)]&emsp;[[Documentation](https://texdoc.org/pkg/awesomebox)]
+10/08 | aeb_dad   | [[CTAN](https://www.ctan.org/pkg/aeb_dad)]&emsp;[[Documentation](https://texdoc.org/pkg/aeb_dad)]
+11/08 | expkv     | [[CTAN](https://www.ctan.org/pkg/expkv)]&emsp;[[Documentation](https://texdoc.org/pkg/expkv)]
+12/08 | ticollege | [[CTAN](https://www.ctan.org/pkg/ticollege)]&emsp;[[Documentation](https://texdoc.org/pkg/ticollege)]
+13/08 | circledsteps | [[CTAN](https://www.ctan.org/pkg/circledsteps)]&emsp;[[Documentation](https://texdoc.org/pkg/circledsteps)]
+14/08 | realtranspose | [[CTAN](https://www.ctan.org/pkg/realtranspose)]&emsp;[[Documentation](https://texdoc.org/pkg/realtranspose)]
+15/08 | mahjong | [[CTAN](https://www.ctan.org/pkg/mahjong)]&emsp;[[Documentation](https://texdoc.org/pkg/mahjong)]
+16/08 | cfr-initials | [[CTAN](https://www.ctan.org/pkg/cfr-initials)]&emsp;[[Documentation](https://texdoc.org/pkg/cfr-initials)]
+17/08 | ducksay   | [[CTAN](https://www.ctan.org/pkg/ducksay)]&emsp;[[Documentation](https://texdoc.org/pkg/ducksay)]
+18/08 | xskak     | [[CTAN](https://www.ctan.org/pkg/xskak)]&emsp;[[Documentation](https://texdoc.org/pkg/xskak)]
+19/08 | chordbox  | [[CTAN](https://www.ctan.org/pkg/chordbox)]&emsp;[[Documentation](https://texdoc.org/pkg/chordbox)]
+20/08 | thorshammer | [[CTAN](https://www.ctan.org/pkg/thorshammer)]&emsp;[[Documentation](https://texdoc.org/pkg/thorshammer)]
+21/08 | crossword | [[CTAN](https://www.ctan.org/pkg/crossword)]&emsp;[[Documentation](https://texdoc.org/pkg/crossword)]
+22/08 | bclogo    | [[CTAN](https://www.ctan.org/pkg/bclogo)]&emsp;[[Documentation](https://texdoc.org/pkg/bclogo)]
+23/08 | archaic   | [[CTAN](https://www.ctan.org/pkg/archaic)]&emsp;[[Documentation](https://texdoc.org/pkg/archaic)]
+24/08 | gamebooklib | [[CTAN](https://www.ctan.org/pkg/gamebooklib)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebooklib)]
+25/08 | tikztosvg | [[CTAN](https://www.ctan.org/pkg/tikztosvg)]&emsp;[[Documentation](https://texdoc.org/pkg/tikztosvg)]
+26/08 | mwe       | [[CTAN](https://www.ctan.org/pkg/mwe)]&emsp;[[Documentation](https://texdoc.org/pkg/mwe)]
+27/08 | beameraudience | [[CTAN](https://www.ctan.org/pkg/beameraudience)]&emsp;[[Documentation](https://texdoc.org/pkg/beameraudience)]
+28/08 | clrstrip  | [[CTAN](https://www.ctan.org/pkg/clrstrip)]&emsp;[[Documentation](https://texdoc.org/pkg/clrstrip)]
+29/08 | chronosys | [[CTAN](https://www.ctan.org/pkg/chronosys)]&emsp;[[Documentation](https://texdoc.org/pkg/chronosys)]
+30/08 | cooltooltips | [[CTAN](https://www.ctan.org/pkg/cooltooltips)]&emsp;[[Documentation](https://texdoc.org/pkg/cooltooltips)]
+31/08 | romanbarpagenumber | [[CTAN](https://www.ctan.org/pkg/romanbarpagenumber)]&emsp;[[Documentation](https://texdoc.org/pkg/romanbarpagenumber)]
+01/09 | styledcmd | [[CTAN](https://www.ctan.org/pkg/styledcmd)]&emsp;[[Documentation](https://texdoc.org/pkg/styledcmd)]
+02/09 | callouts  | [[CTAN](https://www.ctan.org/pkg/callouts)]&emsp;[[Documentation](https://texdoc.org/pkg/callouts)]
+03/09 | gs1       | [[CTAN](https://www.ctan.org/pkg/gs1)]&emsp;[[Documentation](https://texdoc.org/pkg/gs1)]
+04/09 | pgf-spectra | [[CTAN](https://www.ctan.org/pkg/pgf-spectra)]&emsp;[[Documentation](https://texdoc.org/pkg/pgf-spectra)]
+05/09 | tipfr     | [[CTAN](https://www.ctan.org/pkg/tipfr)]&emsp;[[Documentation](https://texdoc.org/pkg/tipfr)]
+06/09 | crumbs    | [[CTAN](https://www.ctan.org/pkg/crumbs)]&emsp;[[Documentation](https://texdoc.org/pkg/crumbs)]
+07/09 | animate   | [[CTAN](https://www.ctan.org/pkg/animate)]&emsp;[[Documentation](https://texdoc.org/pkg/animate)]
+08/09 | braids    | [[CTAN](https://www.ctan.org/pkg/braids)]&emsp;[[Documentation](https://texdoc.org/pkg/braids)]
+09/09 | hieroglf  | [[CTAN](https://www.ctan.org/pkg/hieroglf)]&emsp;[[Documentation](https://texdoc.org/pkg/hieroglf)]
+10/09 | biblatex-ext | [[CTAN](https://www.ctan.org/pkg/biblatex-ext)]&emsp;[[Documentation](https://texdoc.org/pkg/biblatex-ext)]
+11/09 | palette   | [[CTAN](https://www.ctan.org/pkg/palette)]&emsp;[[Documentation](https://texdoc.org/pkg/palette)]
+12/09 | chickenize | [[CTAN](https://www.ctan.org/pkg/chickenize)]&emsp;[[Documentation](https://texdoc.org/pkg/chickenize)]  
+13/09 | beamerappendixnote | [[CTAN](https://www.ctan.org/pkg/beamerappendixnote)]&emsp;[[Documentation](https://texdoc.org/pkg/beamerappendixnote)]
+14/09 | dictsym   | [[CTAN](https://www.ctan.org/pkg/dictsym)]&emsp;[[Documentation](https://texdoc.org/pkg/dictsym)]
+15/09 | ransom    | [[CTAN](https://www.ctan.org/pkg/ransom)]&emsp;[[Documentation](https://texdoc.org/pkg/ransom)]
+16/09 | cleveref  | [[CTAN](https://www.ctan.org/pkg/cleveref)]&emsp;[[Documentation](https://texdoc.org/pkg/cleveref)]
+17/09 | zref-check | [[CTAN](https://www.ctan.org/pkg/zref-check)]&emsp;[[Documentation](https://texdoc.org/pkg/zref-check)]
+18/09 | reverxii  | [[CTAN](https://www.ctan.org/pkg/reverxii)]&emsp;[[Documentation](https://texdoc.org/pkg/reverxii)]
+19/09 | dirtytalk | [[CTAN](https://www.ctan.org/pkg/dirtytalk)]&emsp;[[Documentation](https://texdoc.org/pkg/dirtytalk)]
+20/09 | TikZducks | [[CTAN](https://www.ctan.org/pkg/tikzducks)]&emsp;[[Documentation](https://texdoc.org/pkg/tikzducks)]
+21/09 | luapstricks | [[CTAN](https://www.ctan.org/pkg/luapstricks)]&emsp;[[Documentation](https://texdoc.org/pkg/luapstricks)]
+22/09 | catchfilebetweentags | [[CTAN](https://www.ctan.org/pkg/catchfilebetweentags)]&emsp;[[Documentation](https://texdoc.org/pkg/catchfilebetweentags)]
+23/09 | spacingtricks | [[CTAN](https://www.ctan.org/pkg/spacingtricks)]&emsp;[[Documentation](https://texdoc.org/pkg/spacingtricks)]
+24/09 | pxpic     | [[CTAN](https://www.ctan.org/pkg/pxpic)]&emsp;[[Documentation](https://texdoc.org/pkg/pxpic)]
+25/09 | attachfile2 | [[CTAN](https://www.ctan.org/pkg/attachfile2)]&emsp;[[Documentation](https://texdoc.org/pkg/attachfile2)]
+26/09 | arraycols | [[CTAN](https://www.ctan.org/pkg/arraycols)]&emsp;[[Documentation](https://texdoc.org/pkg/arraycols)]
+27/09 | acromemory | [[CTAN](https://www.ctan.org/pkg/acromemory)]&emsp;[[Documentation](https://texdoc.org/pkg/acromemory)]
+28/09 | etoc      | [[CTAN](https://www.ctan.org/pkg/etoc)]&emsp;[[Documentation](https://texdoc.org/pkg/etoc)]
+29/09 | keyfloat  | [[CTAN](https://www.ctan.org/pkg/keyfloat)]&emsp;[[Documentation](https://texdoc.org/pkg/keyfloat)]
+30/09 | codehigh  | [[CTAN](https://www.ctan.org/pkg/codehigh)]&emsp;[[Documentation](https://texdoc.org/pkg/codehigh)]
+01/10 | tikz-palattice | [[CTAN](https://www.ctan.org/pkg/tikz-palattice)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-palattice)]
 02/10 |  |
 03/10 |  |
 04/10 |  |
@@ -132,7 +132,7 @@ Day   | Package   | Link
 28/10 |  |
 29/10 |  |
 30/10 |  |
-31/10 | halloweenmath | https://www.ctan.org/pkg/halloweenmath
+31/10 | halloweenmath | [[CTAN](https://www.ctan.org/pkg/halloweenmath)]&emsp;[[Documentation](https://texdoc.org/pkg/halloweenmath)]
 01/11 |  |
 02/11 |  |
 03/11 |  |
@@ -355,7 +355,7 @@ Day   | Package   | Link
 08/06 |  |
 09/06 |  |
 10/06 |  |
-11/06 | cooking-units | https://www.ctan.org/pkg/cooking-units
+11/06 | cooking-units | [[CTAN](https://www.ctan.org/pkg/cooking-units)]&emsp;[[Documentation](https://texdoc.org/pkg/cooking-units)]
 12/06 |  |
 13/06 |  |
 14/06 |  |
