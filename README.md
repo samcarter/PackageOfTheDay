@@ -103,8 +103,7 @@ Day   | Package     | Link
 29/09 | `keyfloat`  | [[CTAN](https://www.ctan.org/pkg/keyfloat)]&emsp;[[Documentation](https://texdoc.org/pkg/keyfloat)]
 30/09 | `codehigh`  | [[CTAN](https://www.ctan.org/pkg/codehigh)]&emsp;[[Documentation](https://texdoc.org/pkg/codehigh)]
 01/10 | `tikz-palattice` | [[CTAN](https://www.ctan.org/pkg/tikz-palattice)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-palattice)]
-02/10 |  |
-03/10 |  |
+02/10 | `image-gallery` | [[CTAN](https://www.ctan.org/pkg/image-gallery)]&emsp;[[Documentation](https://texdoc.org/pkg/image-gallery)]
 04/10 |  |
 05/10 |  |
 06/10 |  |
