@@ -105,8 +105,7 @@ Day   | Package     | Link
 01/10 | `tikz-palattice` | [[CTAN](https://www.ctan.org/pkg/tikz-palattice)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-palattice)]
 02/10 | `image-gallery` | [[CTAN](https://www.ctan.org/pkg/image-gallery)]&emsp;[[Documentation](https://texdoc.org/pkg/image-gallery)]
 03/10 | `chemplants` | [[CTAN](https://www.ctan.org/pkg/chemplants)]
-04/10 |  |
-05/10 |  |
+04/10 | `linenoamsmath` | [[CTAN](https://www.ctan.org/pkg/linenoamsmath)]
 06/10 |  |
 07/10 |  |
 08/10 |  |
