@@ -106,6 +106,7 @@ Day   | Package     | Link
 02/10 | `image-gallery` | [[CTAN](https://www.ctan.org/pkg/image-gallery)]&emsp;[[Documentation](https://texdoc.org/pkg/image-gallery)]
 03/10 | `chemplants` | [[CTAN](https://www.ctan.org/pkg/chemplants)]
 04/10 | `linenoamsmath` | [[CTAN](https://www.ctan.org/pkg/linenoamsmath)]
+05/10 | `debate`    | [[CTAN](https://www.ctan.org/pkg/debate)]
 06/10 |  |
 07/10 |  |
 08/10 |  |
