@@ -107,7 +107,7 @@ Day   | Package     | Link
 03/10 | `chemplants` | [[CTAN](https://www.ctan.org/pkg/chemplants)]
 04/10 | `linenoamsmath` | [[CTAN](https://www.ctan.org/pkg/linenoamsmath)]
 05/10 | `debate`    | [[CTAN](https://www.ctan.org/pkg/debate)]
-06/10 |  |
+06/10 | `multiaudience` | [[CTAN](https://ctan.org/pkg/multiaudience)]
 07/10 |  |
 08/10 |  |
 09/10 |  |
