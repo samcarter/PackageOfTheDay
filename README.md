@@ -104,10 +104,10 @@ Day   | Package     | Link
 30/09 | `codehigh`  | [[CTAN](https://www.ctan.org/pkg/codehigh)]&emsp;[[Documentation](https://texdoc.org/pkg/codehigh)]
 01/10 | `tikz-palattice` | [[CTAN](https://www.ctan.org/pkg/tikz-palattice)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-palattice)]
 02/10 | `image-gallery` | [[CTAN](https://www.ctan.org/pkg/image-gallery)]&emsp;[[Documentation](https://texdoc.org/pkg/image-gallery)]
-03/10 | `chemplants` | [[CTAN](https://www.ctan.org/pkg/chemplants)]
-04/10 | `linenoamsmath` | [[CTAN](https://www.ctan.org/pkg/linenoamsmath)]
-05/10 | `debate`    | [[CTAN](https://www.ctan.org/pkg/debate)]
-06/10 | `multiaudience` | [[CTAN](https://ctan.org/pkg/multiaudience)]
+03/10 | `chemplants` | [[CTAN](https://www.ctan.org/pkg/chemplants)])]&emsp;[[Documentation](https://texdoc.org/pkg/chemplants)]
+04/10 | `linenoamsmath` | [[CTAN](https://www.ctan.org/pkg/linenoamsmath)])]&emsp;[[Documentation](https://texdoc.org/pkg/linenoamsmath)]
+05/10 | `debate`    | [[CTAN](https://www.ctan.org/pkg/debate)])]&emsp;[[Documentation](https://texdoc.org/pkg/debate)]
+06/10 | `multiaudience` | [[CTAN](https://ctan.org/pkg/multiaudience)])]&emsp;[[Documentation](https://texdoc.org/pkg/multiaudience)]
 07/10 |  |
 08/10 |  |
 09/10 |  |
