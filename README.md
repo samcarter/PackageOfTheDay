@@ -108,7 +108,7 @@ Day   | Package     | Link
 04/10 | `linenoamsmath` | [[CTAN](https://www.ctan.org/pkg/linenoamsmath)]&emsp;[[Documentation](https://texdoc.org/pkg/linenoamsmath)]
 05/10 | `debate`    | [[CTAN](https://www.ctan.org/pkg/debate)]&emsp;[[Documentation](https://texdoc.org/pkg/debate)]
 06/10 | `multiaudience` | [[CTAN](https://ctan.org/pkg/multiaudience)]&emsp;[[Documentation](https://texdoc.org/pkg/multiaudience)]
-07/10 |  |
+07/10 | `harveyballs` | [[CTAN](https://www.ctan.org/pkg/harveyballs)]
 08/10 |  |
 09/10 |  |
 10/10 |  | 
