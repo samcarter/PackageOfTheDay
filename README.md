@@ -110,7 +110,7 @@ Day   | Package     | Link
 06/10 | `multiaudience` | [[CTAN](https://ctan.org/pkg/multiaudience)]&emsp;[[Documentation](https://texdoc.org/pkg/multiaudience)]
 07/10 | `harveyballs` | [[CTAN](https://www.ctan.org/pkg/harveyballs)]&emsp;[[Documentation](https://texdoc.org/pkg/harveyballs)]
 08/10 | `typewriter` | [[CTAN](https://www.ctan.org/pkg/typewriter)]&emsp;[[Documentation](https://texdoc.org/pkg/typewriter)]
-09/10 |  |
+09/10 | `spot`      | [[CTAN](http://www.ctan.org/pkg/spot)]&emsp;[[Documentation](https://texdoc.org/pkg/spot)]
 10/10 |  | 
 11/10 |  |
 12/10 |  |
