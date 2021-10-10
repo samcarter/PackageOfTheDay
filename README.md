@@ -4,7 +4,7 @@
 
 As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon celebrate their first birthday, it is time for a new project. The idea is to post each day a LaTeX package which I did not know before or which deserves a bit more attention. 
 
-- the package (or class/Ti*k*Z library/...) should be publicly acessible, best if it is on CTAN
+- the package (or class/Ti*k*Z library/...) should be publicly accessible, best if it is on CTAN
 - I don't guarantee that all the packages in this list are good or even work. Maybe I just like the idea or topic, so use them at your own risk
 - participation is very welcome! If you have any packages which you would to see in this list, open an issue or make a pull request (packages which encourage pineapple pizzas won't be included)
 
@@ -111,7 +111,7 @@ Day   | Package     | Link
 07/10 | `harveyballs` | [[CTAN](https://www.ctan.org/pkg/harveyballs)]&emsp;[[Documentation](https://texdoc.org/pkg/harveyballs)]
 08/10 | `typewriter` | [[CTAN](https://www.ctan.org/pkg/typewriter)]&emsp;[[Documentation](https://texdoc.org/pkg/typewriter)]
 09/10 | `spot`      | [[CTAN](http://www.ctan.org/pkg/spot)]&emsp;[[Documentation](https://texdoc.org/pkg/spot)]
-10/10 |  | 
+10/10 | `lua-check-hyphen` | [[CTAN](https://www.ctan.org/pkg/lua-check-hyphen)]&emsp;[[Documentation](https://texdoc.org/pkg/lua-check-hyphen)]
 11/10 |  |
 12/10 |  |
 13/10 |  |
