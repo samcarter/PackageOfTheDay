@@ -112,7 +112,7 @@ Day   | Package     | Link
 08/10 | `typewriter` | [[CTAN](https://www.ctan.org/pkg/typewriter)]&emsp;[[Documentation](https://texdoc.org/pkg/typewriter)]
 09/10 | `spot`      | [[CTAN](http://www.ctan.org/pkg/spot)]&emsp;[[Documentation](https://texdoc.org/pkg/spot)]
 10/10 | `lua-check-hyphen` | [[CTAN](https://www.ctan.org/pkg/lua-check-hyphen)]&emsp;[[Documentation](https://texdoc.org/pkg/lua-check-hyphen)]
-11/10 |  |
+11/10 | `showlabels` | [[CTAN](http://www.ctan.org/pkg/showlabels)]&emsp;[[Documentation](https://texdoc.org/pkg/showlabels)]
 12/10 |  |
 13/10 |  |
 14/10 |  |
