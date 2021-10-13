@@ -114,7 +114,7 @@ Day   | Package     | Link
 10/10 | `lua-check-hyphen` | [[CTAN](https://www.ctan.org/pkg/lua-check-hyphen)]&emsp;[[Documentation](https://texdoc.org/pkg/lua-check-hyphen)]
 11/10 | `showlabels` | [[CTAN](http://www.ctan.org/pkg/showlabels)]&emsp;[[Documentation](https://texdoc.org/pkg/showlabels)]
 12/10 | `unravel` | [[CTAN](http://www.ctan.org/pkg/unravel)]&emsp;[[Documentation](https://texdoc.org/pkg/unravel)]
-13/10 |  |
+13/10 | `sttools` | [[CTAN](http://www.ctan.org/pkg/sttools)]&emsp;[[Documentation](https://texdoc.org/pkg/sttools)]
 14/10 |  |
 15/10 |  |
 16/10 |  |
