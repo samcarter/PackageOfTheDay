@@ -115,7 +115,7 @@ Day   | Package     | Link
 11/10 | `showlabels` | [[CTAN](http://www.ctan.org/pkg/showlabels)]&emsp;[[Documentation](https://texdoc.org/pkg/showlabels)]
 12/10 | `unravel` | [[CTAN](http://www.ctan.org/pkg/unravel)]&emsp;[[Documentation](https://texdoc.org/pkg/unravel)]
 13/10 | `sttools` | [[CTAN](http://www.ctan.org/pkg/sttools)]&emsp;[[Documentation](https://texdoc.org/pkg/sttools)]
-14/10 |  |
+14/10 | `lua-widow-control` | [[CTAN](http://www.ctan.org/pkg/lua-widow-control)]&emsp;[[Documentation](https://texdoc.org/pkg/lua-widow-control)]
 15/10 |  |
 16/10 |  |
 17/10 |  |
