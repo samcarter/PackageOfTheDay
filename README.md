@@ -118,7 +118,7 @@ Day   | Package     | Link
 14/10 | `lua-widow-control` | [[CTAN](http://www.ctan.org/pkg/lua-widow-control)]&emsp;[[Documentation](https://texdoc.org/pkg/lua-widow-control)]
 15/10 | `xcref` | [[Github](https://github.com/frougon/xcref)]
 16/10 | `duckuments` | [[CTAN](http://www.ctan.org/pkg/duckuments)]&emsp;[[Documentation](https://texdoc.org/pkg/duckuments)]
-17/10 |  |
+17/10 | `cookingsymbols` | [[CTAN](http://www.ctan.org/pkg/cookingsymbols)]&emsp;[[Documentation](https://texdoc.org/pkg/cookingsymbols)]
 18/10 |  |
 19/10 |  |
 20/10 |  |
