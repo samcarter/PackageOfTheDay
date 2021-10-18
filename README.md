@@ -119,7 +119,7 @@ Day   | Package     | Link
 15/10 | `xcref` | [[Github](https://github.com/frougon/xcref)]
 16/10 | `duckuments` | [[CTAN](http://www.ctan.org/pkg/duckuments)]&emsp;[[Documentation](https://texdoc.org/pkg/duckuments)]
 17/10 | `cookingsymbols` | [[CTAN](http://www.ctan.org/pkg/cookingsymbols)]&emsp;[[Documentation](https://texdoc.org/pkg/cookingsymbols)]
-18/10 |  |
+18/10 | `mindflow` | [[CTAN](http://www.ctan.org/pkg/mindflow)]&emsp;[[Documentation](https://texdoc.org/pkg/mindflow)]
 19/10 |  |
 20/10 |  |
 21/10 |  |
