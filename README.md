@@ -120,7 +120,7 @@ Day   | Package     | Link
 16/10 | `duckuments` | [[CTAN](http://www.ctan.org/pkg/duckuments)]&emsp;[[Documentation](https://texdoc.org/pkg/duckuments)]
 17/10 | `cookingsymbols` | [[CTAN](http://www.ctan.org/pkg/cookingsymbols)]&emsp;[[Documentation](https://texdoc.org/pkg/cookingsymbols)]
 18/10 | `mindflow` | [[CTAN](http://www.ctan.org/pkg/mindflow)]&emsp;[[Documentation](https://texdoc.org/pkg/mindflow)]
-19/10 |  |
+19/10 | `mfirstuc` | [[CTAN](http://www.ctan.org/pkg/mfirstuc)]&emsp;[[Documentation](https://texdoc.org/pkg/mfirstuc)]
 20/10 |  |
 21/10 |  |
 22/10 |  |
