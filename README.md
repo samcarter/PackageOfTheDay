@@ -122,7 +122,7 @@ Day   | Package     | Link
 18/10 | `mindflow` | [[CTAN](http://www.ctan.org/pkg/mindflow)]&emsp;[[Documentation](https://texdoc.org/pkg/mindflow)]
 19/10 | `mfirstuc` | [[CTAN](http://www.ctan.org/pkg/mfirstuc)]&emsp;[[Documentation](https://texdoc.org/pkg/mfirstuc)]
 20/10 | `csquotes` | [[CTAN](http://www.ctan.org/pkg/csquotes)]&emsp;[[Documentation](https://texdoc.org/pkg/csquotes)]
-21/10 |  |
+21/10 | `bboldx` | [[CTAN](http://www.ctan.org/pkg/bboldx)]&emsp;[[Documentation](https://texdoc.org/pkg/bboldx)]
 22/10 |  |
 23/10 |  |
 24/10 |  |
