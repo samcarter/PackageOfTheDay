@@ -123,7 +123,7 @@ Day   | Package     | Link
 19/10 | `mfirstuc` | [[CTAN](http://www.ctan.org/pkg/mfirstuc)]&emsp;[[Documentation](https://texdoc.org/pkg/mfirstuc)]
 20/10 | `csquotes` | [[CTAN](http://www.ctan.org/pkg/csquotes)]&emsp;[[Documentation](https://texdoc.org/pkg/csquotes)]
 21/10 | `bboldx` | [[CTAN](http://www.ctan.org/pkg/bboldx)]&emsp;[[Documentation](https://texdoc.org/pkg/bboldx)]
-22/10 |  |
+22/10 | `linegoal` | [[CTAN](http://www.ctan.org/pkg/linegoal)]&emsp;[[Documentation](https://texdoc.org/pkg/linegoal)]
 23/10 |  |
 24/10 |  |
 25/10 |  |
