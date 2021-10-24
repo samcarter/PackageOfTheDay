@@ -125,7 +125,7 @@ Day   | Package     | Link
 21/10 | `bboldx` | [[CTAN](http://www.ctan.org/pkg/bboldx)]&emsp;[[Documentation](https://texdoc.org/pkg/bboldx)]
 22/10 | `linegoal` | [[CTAN](http://www.ctan.org/pkg/linegoal)]&emsp;[[Documentation](https://texdoc.org/pkg/linegoal)]
 23/10 | `unicodefonttable` | [[CTAN](http://www.ctan.org/pkg/unicodefonttable)]&emsp;[[Documentation](https://texdoc.org/pkg/unicodefonttable)]
-24/10 |  |
+24/10 | `incgraph` | [[CTAN](http://www.ctan.org/pkg/incgraph)]&emsp;[[Documentation](https://texdoc.org/pkg/incgraph)]
 25/10 |  |
 26/10 |  |
 27/10 |  |
