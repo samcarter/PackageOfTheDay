@@ -126,7 +126,7 @@ Day   | Package     | Link
 22/10 | `linegoal` | [[CTAN](http://www.ctan.org/pkg/linegoal)]&emsp;[[Documentation](https://texdoc.org/pkg/linegoal)]
 23/10 | `unicodefonttable` | [[CTAN](http://www.ctan.org/pkg/unicodefonttable)]&emsp;[[Documentation](https://texdoc.org/pkg/unicodefonttable)]
 24/10 | `incgraph` | [[CTAN](http://www.ctan.org/pkg/incgraph)]&emsp;[[Documentation](https://texdoc.org/pkg/incgraph)]
-25/10 |  |
+25/10 | `fontsetup` | [[CTAN](http://www.ctan.org/pkg/fontsetup)]&emsp;[[Documentation](https://texdoc.org/pkg/fontsetup)]
 26/10 |  |
 27/10 |  |
 28/10 |  |
