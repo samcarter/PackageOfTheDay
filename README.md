@@ -128,7 +128,7 @@ Day   | Package     | Link
 24/10 | `incgraph` | [[CTAN](http://www.ctan.org/pkg/incgraph)]&emsp;[[Documentation](https://texdoc.org/pkg/incgraph)]
 25/10 | `fontsetup` | [[CTAN](http://www.ctan.org/pkg/fontsetup)]&emsp;[[Documentation](https://texdoc.org/pkg/fontsetup)]
 26/10 | `handoutwithnotes` | [[CTAN](http://www.ctan.org/pkg/handoutwithnotes)]&emsp;[[Documentation](https://texdoc.org/pkg/handoutwithnotes)]
-27/10 |  |
+27/10 | `havannah` | [[CTAN](http://www.ctan.org/pkg/havannah)]&emsp;[[Documentation](https://texdoc.org/pkg/havannah)]
 28/10 |  |
 29/10 |  |
 30/10 |  |
