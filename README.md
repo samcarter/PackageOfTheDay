@@ -130,7 +130,7 @@ Day   | Package     | Link
 26/10 | `handoutwithnotes` | [[CTAN](http://www.ctan.org/pkg/handoutwithnotes)]&emsp;[[Documentation](https://texdoc.org/pkg/handoutwithnotes)]
 27/10 | `havannah` | [[CTAN](http://www.ctan.org/pkg/havannah)]&emsp;[[Documentation](https://texdoc.org/pkg/havannah)]
 28/10 | `coloring` | [[CTAN](http://www.ctan.org/pkg/coloring)]&emsp;[[Documentation](https://texdoc.org/pkg/coloring)]
-29/10 |  |
+29/10 | `pas-tableur` | [[CTAN](http://www.ctan.org/pkg/pas-tableur)]&emsp;[[Documentation](https://texdoc.org/pkg/pas-tableur)]
 30/10 |  |
 31/10 | `halloweenmath` | [[CTAN](https://www.ctan.org/pkg/halloweenmath)]&emsp;[[Documentation](https://texdoc.org/pkg/halloweenmath)]
 01/11 |  |
