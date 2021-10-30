@@ -131,7 +131,7 @@ Day   | Package     | Link
 27/10 | `havannah` | [[CTAN](http://www.ctan.org/pkg/havannah)]&emsp;[[Documentation](https://texdoc.org/pkg/havannah)]
 28/10 | `coloring` | [[CTAN](http://www.ctan.org/pkg/coloring)]&emsp;[[Documentation](https://texdoc.org/pkg/coloring)]
 29/10 | `pas-tableur` | [[CTAN](http://www.ctan.org/pkg/pas-tableur)]&emsp;[[Documentation](https://texdoc.org/pkg/pas-tableur)]
-30/10 |  |
+30/10 | `ninecolors` | [[CTAN](http://www.ctan.org/pkg/ninecolors)]&emsp;[[Documentation](https://texdoc.org/pkg/ninecolors)]
 31/10 | `halloweenmath` | [[CTAN](https://www.ctan.org/pkg/halloweenmath)]&emsp;[[Documentation](https://texdoc.org/pkg/halloweenmath)]
 01/11 |  |
 02/11 |  |
