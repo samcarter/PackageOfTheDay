@@ -133,7 +133,7 @@ Day | Package | Link
 29/10 | `pas-tableur` | [[CTAN](http://www.ctan.org/pkg/pas-tableur)]&emsp;[[Documentation](https://texdoc.org/pkg/pas-tableur)]
 30/10 | `ninecolors` | [[CTAN](http://www.ctan.org/pkg/ninecolors)]&emsp;[[Documentation](https://texdoc.org/pkg/ninecolors)]
 31/10 | `halloweenmath` | [[CTAN](https://www.ctan.org/pkg/halloweenmath)]&emsp;[[Documentation](https://texdoc.org/pkg/halloweenmath)]
-01/11 |  |
+01/11 | `ccref` | [[CTAN](http://www.ctan.org/pkg/ccref)]&emsp;[[Documentation](https://texdoc.org/pkg/ccref)]
 02/11 |  |
 03/11 |  |
 04/11 |  |
