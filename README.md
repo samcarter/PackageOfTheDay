@@ -134,7 +134,7 @@ Day | Package | Link
 30/10 | `ninecolors` | [[CTAN](http://www.ctan.org/pkg/ninecolors)]&emsp;[[Documentation](https://texdoc.org/pkg/ninecolors)]
 31/10 | `halloweenmath` | [[CTAN](https://www.ctan.org/pkg/halloweenmath)]&emsp;[[Documentation](https://texdoc.org/pkg/halloweenmath)]
 01/11 | `ccref` | [[CTAN](http://www.ctan.org/pkg/ccref)]&emsp;[[Documentation](https://texdoc.org/pkg/ccref)]
-02/11 |  |
+02/11 | `biblatex2bibitem` | [[CTAN](http://www.ctan.org/pkg/biblatex2bibitem)]&emsp;[[Documentation](https://texdoc.org/pkg/biblatex2bibitem)]
 03/11 |  |
 04/11 |  |
 05/11 |  |
