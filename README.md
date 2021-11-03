@@ -135,7 +135,7 @@ Day | Package | Link
 31/10 | `halloweenmath` | [[CTAN](https://www.ctan.org/pkg/halloweenmath)]&emsp;[[Documentation](https://texdoc.org/pkg/halloweenmath)]
 01/11 | `ccref` | [[CTAN](http://www.ctan.org/pkg/ccref)]&emsp;[[Documentation](https://texdoc.org/pkg/ccref)]
 02/11 | `biblatex2bibitem` | [[CTAN](http://www.ctan.org/pkg/biblatex2bibitem)]&emsp;[[Documentation](https://texdoc.org/pkg/biblatex2bibitem)]
-03/11 |  |
+03/11 | `pgf-soroban` | [[CTAN](http://www.ctan.org/pkg/pgf-soroban)]&emsp;[[Documentation](https://texdoc.org/pkg/pgf-soroban)]
 04/11 |  |
 05/11 |  |
 06/11 |  |
