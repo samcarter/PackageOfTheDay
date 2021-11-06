@@ -138,7 +138,7 @@ Day | Package | Link
 03/11 | `pgf-soroban` | [[CTAN](http://www.ctan.org/pkg/pgf-soroban)]&emsp;[[Documentation](https://texdoc.org/pkg/pgf-soroban)]
 04/11 | `logicpuzzle` | [[CTAN](http://www.ctan.org/pkg/logicpuzzle)]&emsp;[[Documentation](https://texdoc.org/pkg/logicpuzzle)]
 05/11 | `tikz-page` | [[CTAN](http://www.ctan.org/pkg/tikz-page)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-page)]
-06/11 |  |
+06/11 | `pst-barcode` | [[CTAN](http://www.ctan.org/pkg/pst-barcode)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-barcode)]
 07/11 |  |
 08/11 |  |
 09/11 |  |
