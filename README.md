@@ -143,7 +143,7 @@ Day | Package | Link
 08/11 | `pst-pulley` | [[CTAN](http://www.ctan.org/pkg/pst-pulley)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-pulley)]
 09/11 | `tikz-timing` | [[CTAN](http://www.ctan.org/pkg/tikz-timing)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-timing)]
 10/11 | `pdfoverlay` | [[CTAN](http://www.ctan.org/pkg/pdfoverlay)]&emsp;[[Documentation](https://texdoc.org/pkg/pdfoverlay)]
-11/11 |  |
+11/11 | `texdimens` | [[CTAN](http://www.ctan.org/pkg/texdimens)]&emsp;[[Documentation](https://texdoc.org/pkg/texdimens)]
 12/11 |  |
 13/11 |  |
 14/11 |  |
