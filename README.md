@@ -144,7 +144,7 @@ Day | Package | Link
 09/11 | `tikz-timing` | [[CTAN](http://www.ctan.org/pkg/tikz-timing)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-timing)]
 10/11 | `pdfoverlay` | [[CTAN](http://www.ctan.org/pkg/pdfoverlay)]&emsp;[[Documentation](https://texdoc.org/pkg/pdfoverlay)]
 11/11 | `texdimens` | [[CTAN](http://www.ctan.org/pkg/texdimens)]&emsp;[[Documentation](https://texdoc.org/pkg/texdimens)]
-12/11 |  |
+12/11 | `nidanfloat` | [[CTAN](http://www.ctan.org/pkg/nidanfloat)]&emsp;[[Documentation](https://texdoc.org/pkg/nidanfloat)]
 13/11 |  |
 14/11 |  |
 15/11 |  |
