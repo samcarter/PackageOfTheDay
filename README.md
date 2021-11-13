@@ -145,7 +145,7 @@ Day | Package | Link
 10/11 | `pdfoverlay` | [[CTAN](http://www.ctan.org/pkg/pdfoverlay)]&emsp;[[Documentation](https://texdoc.org/pkg/pdfoverlay)]
 11/11 | `texdimens` | [[CTAN](http://www.ctan.org/pkg/texdimens)]&emsp;[[Documentation](https://texdoc.org/pkg/texdimens)]
 12/11 | `nidanfloat` | [[CTAN](http://www.ctan.org/pkg/nidanfloat)]&emsp;[[Documentation](https://texdoc.org/pkg/nidanfloat)]
-13/11 |  |
+13/11 | `regexpatch` | [[CTAN](http://www.ctan.org/pkg/regexpatch)]&emsp;[[Documentation](https://texdoc.org/pkg/regexpatch)]
 14/11 |  |
 15/11 |  |
 16/11 |  |
