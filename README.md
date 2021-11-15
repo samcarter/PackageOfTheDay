@@ -147,7 +147,7 @@ Day | Package | Link
 12/11 | `nidanfloat` | [[CTAN](http://www.ctan.org/pkg/nidanfloat)]&emsp;[[Documentation](https://texdoc.org/pkg/nidanfloat)]
 13/11 | `regexpatch` | [[CTAN](http://www.ctan.org/pkg/regexpatch)]&emsp;[[Documentation](https://texdoc.org/pkg/regexpatch)]
 14/11 | `fontsize` | [[CTAN](http://www.ctan.org/pkg/fontsize)]&emsp;[[Documentation](https://texdoc.org/pkg/fontsize)]
-15/11 |  |
+15/11 | `phonenumbers` | [[CTAN](http://www.ctan.org/pkg/phonenumbers)]&emsp;[[Documentation](https://texdoc.org/pkg/phonenumbers)]
 16/11 |  |
 17/11 |  |
 18/11 |  |
