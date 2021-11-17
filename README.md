@@ -149,7 +149,7 @@ Day | Package | Link
 14/11 | `fontsize` | [[CTAN](http://www.ctan.org/pkg/fontsize)]&emsp;[[Documentation](https://texdoc.org/pkg/fontsize)]
 15/11 | `phonenumbers` | [[CTAN](http://www.ctan.org/pkg/phonenumbers)]&emsp;[[Documentation](https://texdoc.org/pkg/phonenumbers)]
 16/11 | `setdeck` | [[CTAN](http://www.ctan.org/pkg/setdeck)]&emsp;[[Documentation](https://texdoc.org/pkg/setdeck)]
-17/11 |  |
+17/11 | `xpicture` | [[CTAN](http://www.ctan.org/pkg/xpicture)]&emsp;[[Documentation](https://texdoc.org/pkg/xpicture)]
 18/11 |  |
 19/11 |  |
 20/11 |  |
