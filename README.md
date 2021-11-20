@@ -152,7 +152,7 @@ Day | Package | Link
 17/11 | `xpicture` | [[CTAN](http://www.ctan.org/pkg/xpicture)]&emsp;[[Documentation](https://texdoc.org/pkg/xpicture)]
 18/11 | `xkcdcolors` | [[CTAN](https://www.ctan.org/pkg/xkcdcolors)]&emsp;[[Documentation](https://texdoc.org/pkg/xkcdcolors)]
 19/11 | `magicnum` | [[CTAN](http://www.ctan.org/pkg/magicnum)]&emsp;[[Documentation](https://texdoc.org/pkg/magicnum)]
-20/11 |  |
+20/11 | `strands` | [[CTAN](http://www.ctan.org/pkg/strands)]&emsp;[[Documentation](https://texdoc.org/pkg/strands)]
 21/11 |  |
 22/11 |  |
 23/11 |  |
