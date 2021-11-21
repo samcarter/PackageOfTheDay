@@ -153,7 +153,7 @@ Day | Package | Link
 18/11 | `xkcdcolors` | [[CTAN](https://www.ctan.org/pkg/xkcdcolors)]&emsp;[[Documentation](https://texdoc.org/pkg/xkcdcolors)]
 19/11 | `magicnum` | [[CTAN](http://www.ctan.org/pkg/magicnum)]&emsp;[[Documentation](https://texdoc.org/pkg/magicnum)]
 20/11 | `strands` | [[CTAN](http://www.ctan.org/pkg/strands)]&emsp;[[Documentation](https://texdoc.org/pkg/strands)]
-21/11 |  |
+21/11 | `fmtcount` | [[CTAN](http://www.ctan.org/pkg/fmtcount)]&emsp;[[Documentation](https://texdoc.org/pkg/fmtcount)]
 22/11 |  |
 23/11 |  |
 24/11 |  |
