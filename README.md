@@ -154,7 +154,7 @@ Day | Package | Link
 19/11 | `magicnum` | [[CTAN](http://www.ctan.org/pkg/magicnum)]&emsp;[[Documentation](https://texdoc.org/pkg/magicnum)]
 20/11 | `strands` | [[CTAN](http://www.ctan.org/pkg/strands)]&emsp;[[Documentation](https://texdoc.org/pkg/strands)]
 21/11 | `fmtcount` | [[CTAN](http://www.ctan.org/pkg/fmtcount)]&emsp;[[Documentation](https://texdoc.org/pkg/fmtcount)]
-22/11 |  |
+22/11 | `productbox` | [[CTAN](http://www.ctan.org/pkg/productbox)]&emsp;[[Documentation](https://texdoc.org/pkg/productbox)]
 23/11 |  |
 24/11 |  |
 25/11 |  |
