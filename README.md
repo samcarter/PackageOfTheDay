@@ -156,7 +156,7 @@ Day | Package | Link
 21/11 | `fmtcount` | [[CTAN](http://www.ctan.org/pkg/fmtcount)]&emsp;[[Documentation](https://texdoc.org/pkg/fmtcount)]
 22/11 | `productbox` | [[CTAN](http://www.ctan.org/pkg/productbox)]&emsp;[[Documentation](https://texdoc.org/pkg/productbox)]
 23/11 | `sudoku` | [[CTAN](http://www.ctan.org/pkg/sudoku)]&emsp;[[Documentation](https://texdoc.org/pkg/sudoku)]
-24/11 |  |
+24/11 | `fnpct` | [[CTAN](http://www.ctan.org/pkg/fnpct)]&emsp;[[Documentation](https://texdoc.org/pkg/fnpct)]
 25/11 |  |
 26/11 |  |  
 27/11 |  |
