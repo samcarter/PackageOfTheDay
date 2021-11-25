@@ -157,7 +157,7 @@ Day | Package | Link
 22/11 | `productbox` | [[CTAN](http://www.ctan.org/pkg/productbox)]&emsp;[[Documentation](https://texdoc.org/pkg/productbox)]
 23/11 | `sudoku` | [[CTAN](http://www.ctan.org/pkg/sudoku)]&emsp;[[Documentation](https://texdoc.org/pkg/sudoku)]
 24/11 | `fnpct` | [[CTAN](http://www.ctan.org/pkg/fnpct)]&emsp;[[Documentation](https://texdoc.org/pkg/fnpct)]
-25/11 |  |
+25/11 | `tikzmark` | [[CTAN](http://www.ctan.org/pkg/tikzmark)]&emsp;[[Documentation](https://texdoc.org/pkg/tikzmark)]
 26/11 |  |  
 27/11 |  |
 28/11 |  |
