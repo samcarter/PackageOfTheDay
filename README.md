@@ -159,7 +159,7 @@ Day | Package | Link
 24/11 | `fnpct` | [[CTAN](http://www.ctan.org/pkg/fnpct)]&emsp;[[Documentation](https://texdoc.org/pkg/fnpct)]
 25/11 | `tikzmark` | [[CTAN](http://www.ctan.org/pkg/tikzmark)]&emsp;[[Documentation](https://texdoc.org/pkg/tikzmark)]
 26/11 | `makeshape` | [[CTAN](http://www.ctan.org/pkg/makeshape)]&emsp;[[Documentation](https://texdoc.org/pkg/makeshape)]
-27/11 |  |
+27/11 | `bookshelf` | [[CTAN](http://www.ctan.org/pkg/bookshelf)]&emsp;[[Documentation](https://texdoc.org/pkg/bookshelf)]
 28/11 |  |
 29/11 |  |
 30/11 |  |
