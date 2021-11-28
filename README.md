@@ -160,7 +160,7 @@ Day | Package | Link
 25/11 | `tikzmark` | [[CTAN](http://www.ctan.org/pkg/tikzmark)]&emsp;[[Documentation](https://texdoc.org/pkg/tikzmark)]
 26/11 | `makeshape` | [[CTAN](http://www.ctan.org/pkg/makeshape)]&emsp;[[Documentation](https://texdoc.org/pkg/makeshape)]
 27/11 | `bookshelf` | [[CTAN](http://www.ctan.org/pkg/bookshelf)]&emsp;[[Documentation](https://texdoc.org/pkg/bookshelf)]
-28/11 |  |
+28/11 | `fontawesome5` | [[CTAN](http://www.ctan.org/pkg/fontawesome5)]&emsp;[[Documentation](https://texdoc.org/pkg/fontawesome5)]
 29/11 |  |
 30/11 |  |
 01/12 |  |
