@@ -162,7 +162,7 @@ Day | Package | Link
 27/11 | `bookshelf` | [[CTAN](http://www.ctan.org/pkg/bookshelf)]&emsp;[[Documentation](https://texdoc.org/pkg/bookshelf)]
 28/11 | `fontawesome5` | [[CTAN](http://www.ctan.org/pkg/fontawesome5)]&emsp;[[Documentation](https://texdoc.org/pkg/fontawesome5)]
 29/11 | `extsizes` | [[CTAN](http://www.ctan.org/pkg/extsizes)]&emsp;[[Documentation](https://texdoc.org/pkg/extsizes)]
-30/11 |  |
+30/11 | `findfont` | [[CTAN](http://www.ctan.org/pkg/findfont)]&emsp;[[Documentation](https://texdoc.org/pkg/findfont)]
 01/12 |  |
 02/12 |  |
 03/12 |  |
