@@ -163,7 +163,7 @@ Day | Package | Link
 28/11 | `fontawesome5` | [[CTAN](http://www.ctan.org/pkg/fontawesome5)]&emsp;[[Documentation](https://texdoc.org/pkg/fontawesome5)]
 29/11 | `extsizes` | [[CTAN](http://www.ctan.org/pkg/extsizes)]&emsp;[[Documentation](https://texdoc.org/pkg/extsizes)]
 30/11 | `findfont` | [[CTAN](http://www.ctan.org/pkg/findfont)]&emsp;[[Documentation](https://texdoc.org/pkg/findfont)]
-01/12 |  |
+01/12 | `tabularray` | [[CTAN](http://www.ctan.org/pkg/tabularray)]&emsp;[[Documentation](https://texdoc.org/pkg/tabularray)]
 02/12 |  |
 03/12 |  |
 04/12 |  |
