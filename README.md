@@ -164,7 +164,7 @@ Day | Package | Link
 29/11 | `extsizes` | [[CTAN](http://www.ctan.org/pkg/extsizes)]&emsp;[[Documentation](https://texdoc.org/pkg/extsizes)]
 30/11 | `findfont` | [[CTAN](http://www.ctan.org/pkg/findfont)]&emsp;[[Documentation](https://texdoc.org/pkg/findfont)]
 01/12 | `tabularray` | [[CTAN](http://www.ctan.org/pkg/tabularray)]&emsp;[[Documentation](https://texdoc.org/pkg/tabularray)]
-02/12 |  |
+02/12 | `ltximg` | [[CTAN](http://www.ctan.org/pkg/ltximg)]&emsp;[[Documentation](https://texdoc.org/pkg/ltximg)]
 03/12 |  |
 04/12 |  |
 05/12 |  |
