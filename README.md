@@ -165,7 +165,7 @@ Day | Package | Link
 30/11 | `findfont` | [[CTAN](http://www.ctan.org/pkg/findfont)]&emsp;[[Documentation](https://texdoc.org/pkg/findfont)]
 01/12 | `tabularray` | [[CTAN](http://www.ctan.org/pkg/tabularray)]&emsp;[[Documentation](https://texdoc.org/pkg/tabularray)]
 02/12 | `ltximg` | [[CTAN](http://www.ctan.org/pkg/ltximg)]&emsp;[[Documentation](https://texdoc.org/pkg/ltximg)]
-03/12 |  |
+03/12 | `beamersubframe` | [[CTAN](http://www.ctan.org/pkg/beamersubframe)]&emsp;[[Documentation](https://texdoc.org/pkg/beamersubframe)]
 04/12 |  |
 05/12 |  |
 06/12 |  |
