@@ -166,7 +166,7 @@ Day | Package | Link
 01/12 | `tabularray` | [[CTAN](http://www.ctan.org/pkg/tabularray)]&emsp;[[Documentation](https://texdoc.org/pkg/tabularray)]
 02/12 | `ltximg` | [[CTAN](http://www.ctan.org/pkg/ltximg)]&emsp;[[Documentation](https://texdoc.org/pkg/ltximg)]
 03/12 | `beamersubframe` | [[CTAN](http://www.ctan.org/pkg/beamersubframe)]&emsp;[[Documentation](https://texdoc.org/pkg/beamersubframe)]
-04/12 |  |
+04/12 | `datatool` | [[CTAN](http://www.ctan.org/pkg/datatool)]&emsp;[[Documentation](https://texdoc.org/pkg/datatool)]
 05/12 |  |
 06/12 |  |
 07/12 |  |
