@@ -168,7 +168,7 @@ Day | Package | Link
 03/12 | `beamersubframe` | [[CTAN](http://www.ctan.org/pkg/beamersubframe)]&emsp;[[Documentation](https://texdoc.org/pkg/beamersubframe)]
 04/12 | `datatool` | [[CTAN](http://www.ctan.org/pkg/datatool)]&emsp;[[Documentation](https://texdoc.org/pkg/datatool)]
 05/12 | `scrambledenvs` | [[CTAN](http://www.ctan.org/pkg/scrambledenvs)]&emsp;[[Documentation](https://texdoc.org/pkg/scrambledenvs)]
-06/12 |  |
+06/12 | `abraces` | [[CTAN](http://www.ctan.org/pkg/abraces)]&emsp;[[Documentation](https://texdoc.org/pkg/abraces)]
 07/12 |  |
 08/12 |  |
 09/12 |  |
