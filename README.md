@@ -172,7 +172,7 @@ Day | Package | Link
 07/12 | `currfile` | [[CTAN](http://www.ctan.org/pkg/currfile)]&emsp;[[Documentation](https://texdoc.org/pkg/currfile)]
 08/12 | `href-ul` | [[CTAN](http://www.ctan.org/pkg/href-ul)]&emsp;[[Documentation](https://texdoc.org/pkg/href-ul)]
 09/12 | `csvsimple` | [[CTAN](http://www.ctan.org/pkg/csvsimple)]&emsp;[[Documentation](https://texdoc.org/pkg/csvsimple)]
-10/12 |  |
+10/12 | `sqltex` | [[CTAN](http://www.ctan.org/pkg/sqltex)]&emsp;[[Documentation](https://texdoc.org/pkg/sqltex)]
 11/12 |  |
 12/12 |  |
 13/12 |  |
