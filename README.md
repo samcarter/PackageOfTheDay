@@ -174,7 +174,7 @@ Day | Package | Link
 09/12 | `csvsimple` | [[CTAN](http://www.ctan.org/pkg/csvsimple)]&emsp;[[Documentation](https://texdoc.org/pkg/csvsimple)]
 10/12 | `sqltex` | [[CTAN](http://www.ctan.org/pkg/sqltex)]&emsp;[[Documentation](https://texdoc.org/pkg/sqltex)]
 11/12 | `tikz-swigs` | [[CTAN](http://www.ctan.org/pkg/tikz-swigs)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-swigs)]
-12/12 |  |
+12/12 | `arara` | [[CTAN](http://www.ctan.org/pkg/arara)]&emsp;[[Documentation](https://texdoc.org/pkg/arara)]
 13/12 |  |
 14/12 |  |
 15/12 |  |
