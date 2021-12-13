@@ -175,7 +175,7 @@ Day | Package | Link
 10/12 | `sqltex` | [[CTAN](http://www.ctan.org/pkg/sqltex)]&emsp;[[Documentation](https://texdoc.org/pkg/sqltex)]
 11/12 | `tikz-swigs` | [[CTAN](http://www.ctan.org/pkg/tikz-swigs)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-swigs)]
 12/12 | `arara` | [[CTAN](http://www.ctan.org/pkg/arara)]&emsp;[[Documentation](https://texdoc.org/pkg/arara)]
-13/12 |  |
+13/12 | `zref-clever` | [[CTAN](http://www.ctan.org/pkg/zref-clever)]&emsp;[[Documentation](https://texdoc.org/pkg/zref-clever)]
 14/12 |  |
 15/12 |  |
 16/12 |  |
