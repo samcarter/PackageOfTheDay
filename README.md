@@ -178,7 +178,7 @@ Day | Package | Link
 13/12 | `zref-clever` | [[CTAN](http://www.ctan.org/pkg/zref-clever)]&emsp;[[Documentation](https://texdoc.org/pkg/zref-clever)]
 14/12 | `numerica` | [[CTAN](http://www.ctan.org/pkg/numerica)]&emsp;[[Documentation](https://texdoc.org/pkg/numerica)]
 15/12 | `nndraw` | [[CTAN](http://www.ctan.org/pkg/nndraw)]&emsp;[[Documentation](https://texdoc.org/pkg/nndraw)]
-16/12 |  |
+16/12 | `numspell` | [[CTAN](http://www.ctan.org/pkg/numspell)]&emsp;[[Documentation](https://texdoc.org/pkg/numspell)]
 17/12 |  |
 18/12 |  |
 19/12 |  |
