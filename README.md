@@ -179,7 +179,7 @@ Day | Package | Link
 14/12 | `numerica` | [[CTAN](http://www.ctan.org/pkg/numerica)]&emsp;[[Documentation](https://texdoc.org/pkg/numerica)]
 15/12 | `nndraw` | [[CTAN](http://www.ctan.org/pkg/nndraw)]&emsp;[[Documentation](https://texdoc.org/pkg/nndraw)]
 16/12 | `numspell` | [[CTAN](http://www.ctan.org/pkg/numspell)]&emsp;[[Documentation](https://texdoc.org/pkg/numspell)]
-17/12 |  |
+17/12 | `aboensis` | [[CTAN](http://www.ctan.org/pkg/aboensis)]&emsp;[[Documentation](https://texdoc.org/pkg/aboensis)]
 18/12 |  |
 19/12 |  |
 20/12 |  |
