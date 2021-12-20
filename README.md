@@ -182,7 +182,7 @@ Day | Package | Link
 17/12 | `aboensis` | [[CTAN](http://www.ctan.org/pkg/aboensis)]&emsp;[[Documentation](https://texdoc.org/pkg/aboensis)]
 18/12 | `changebar` | [[CTAN](http://www.ctan.org/pkg/changebar)]&emsp;[[Documentation](https://texdoc.org/pkg/changebar)]
 19/12 | `hvfloat` | [[CTAN](http://www.ctan.org/pkg/hvfloat)]&emsp;[[Documentation](https://texdoc.org/pkg/hvfloat)]
-20/12 |  |
+20/12 | `cdcmd` | [[CTAN](http://www.ctan.org/pkg/cdcmd)]&emsp;[[Documentation](https://texdoc.org/pkg/cdcmd)]
 21/12 |  |
 22/12 |  |
 23/12 |  |
