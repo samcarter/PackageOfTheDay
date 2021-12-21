@@ -183,7 +183,7 @@ Day | Package | Link
 18/12 | `changebar` | [[CTAN](http://www.ctan.org/pkg/changebar)]&emsp;[[Documentation](https://texdoc.org/pkg/changebar)]
 19/12 | `hvfloat` | [[CTAN](http://www.ctan.org/pkg/hvfloat)]&emsp;[[Documentation](https://texdoc.org/pkg/hvfloat)]
 20/12 | `cdcmd` | [[CTAN](http://www.ctan.org/pkg/cdcmd)]&emsp;[[Documentation](https://texdoc.org/pkg/cdcmd)]
-21/12 |  |
+21/12 | `indentfirst` | [[CTAN](http://www.ctan.org/pkg/indentfirst)] &emsp;[[Documentation](https://texdoc.org/pkg/indentfirst)]
 22/12 |  |
 23/12 |  |
 24/12 |  |
