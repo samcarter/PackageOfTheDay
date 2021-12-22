@@ -184,7 +184,7 @@ Day | Package | Link
 19/12 | `hvfloat` | [[CTAN](http://www.ctan.org/pkg/hvfloat)]&emsp;[[Documentation](https://texdoc.org/pkg/hvfloat)]
 20/12 | `cdcmd` | [[CTAN](http://www.ctan.org/pkg/cdcmd)]&emsp;[[Documentation](https://texdoc.org/pkg/cdcmd)]
 21/12 | `indentfirst` | [[CTAN](http://www.ctan.org/pkg/indentfirst)] &emsp;[[Documentation](https://texdoc.org/pkg/indentfirst)]
-22/12 |  |
+22/12 | `truthtable` | [[CTAN](http://www.ctan.org/pkg/truthtable)]&emsp;[[Documentation](https://texdoc.org/pkg/truthtable)]
 23/12 |  |
 24/12 |  |
 25/12 |  |
