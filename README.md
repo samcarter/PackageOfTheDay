@@ -185,7 +185,7 @@ Day | Package | Link
 20/12 | `cdcmd` | [[CTAN](http://www.ctan.org/pkg/cdcmd)]&emsp;[[Documentation](https://texdoc.org/pkg/cdcmd)]
 21/12 | `indentfirst` | [[CTAN](http://www.ctan.org/pkg/indentfirst)] &emsp;[[Documentation](https://texdoc.org/pkg/indentfirst)]
 22/12 | `truthtable` | [[CTAN](http://www.ctan.org/pkg/truthtable)]&emsp;[[Documentation](https://texdoc.org/pkg/truthtable)]
-23/12 |  |
+23/12 | `texlogsieve` | [[CTAN](http://www.ctan.org/pkg/texlogsieve)]&emsp;[[Documentation](https://texdoc.org/pkg/texlogsieve)]
 24/12 |  |
 25/12 |  |
 26/12 |  |
