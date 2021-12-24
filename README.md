@@ -186,7 +186,7 @@ Day | Package | Link
 21/12 | `indentfirst` | [[CTAN](http://www.ctan.org/pkg/indentfirst)] &emsp;[[Documentation](https://texdoc.org/pkg/indentfirst)]
 22/12 | `truthtable` | [[CTAN](http://www.ctan.org/pkg/truthtable)]&emsp;[[Documentation](https://texdoc.org/pkg/truthtable)]
 23/12 | `texlogsieve` | [[CTAN](http://www.ctan.org/pkg/texlogsieve)]&emsp;[[Documentation](https://texdoc.org/pkg/texlogsieve)]
-24/12 |  |
+24/12 | `scsnowman` | [[CTAN](https://www.ctan.org/pkg/scsnowman)]&emsp;[[Documentation](https://texdoc.org/pkg/scsnowman)]
 25/12 |  |
 26/12 |  |
 27/12 |  |
