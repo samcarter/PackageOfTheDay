@@ -187,7 +187,7 @@ Day | Package | Link
 22/12 | `truthtable` | [[CTAN](http://www.ctan.org/pkg/truthtable)]&emsp;[[Documentation](https://texdoc.org/pkg/truthtable)]
 23/12 | `texlogsieve` | [[CTAN](http://www.ctan.org/pkg/texlogsieve)]&emsp;[[Documentation](https://texdoc.org/pkg/texlogsieve)]
 24/12 | `scsnowman` | [[CTAN](https://www.ctan.org/pkg/scsnowman)]&emsp;[[Documentation](https://texdoc.org/pkg/scsnowman)]
-25/12 |  |
+25/12 | `xii` | [[CTAN](https://www.ctan.org/pkg/xii)]&emsp;[[Documentation](https://texdoc.org/pkg/xii)]
 26/12 |  |
 27/12 |  |
 28/12 |  |
