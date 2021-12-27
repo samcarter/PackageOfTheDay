@@ -189,7 +189,7 @@ Day | Package | Link
 24/12 | `scsnowman` | [[CTAN](https://www.ctan.org/pkg/scsnowman)]&emsp;[[Documentation](https://texdoc.org/pkg/scsnowman)]
 25/12 | `xii` | [[CTAN](https://www.ctan.org/pkg/xii)]&emsp;[[Documentation](https://texdoc.org/pkg/xii)]
 26/12 | `listofitems` | [[CTAN](http://www.ctan.org/pkg/listofitems)]&emsp;[[Documentation](https://texdoc.org/pkg/listofitems)]
-27/12 |  |
+27/12 | `knowledge` | [[CTAN](http://www.ctan.org/pkg/knowledge)]&emsp;[[Documentation](https://texdoc.org/pkg/knowledge)]
 28/12 |  |
 29/12 |  |
 30/12 |  |
