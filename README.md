@@ -190,7 +190,7 @@ Day | Package | Link
 25/12 | `xii` | [[CTAN](https://www.ctan.org/pkg/xii)]&emsp;[[Documentation](https://texdoc.org/pkg/xii)]
 26/12 | `listofitems` | [[CTAN](http://www.ctan.org/pkg/listofitems)]&emsp;[[Documentation](https://texdoc.org/pkg/listofitems)]
 27/12 | `knowledge` | [[CTAN](http://www.ctan.org/pkg/knowledge)]&emsp;[[Documentation](https://texdoc.org/pkg/knowledge)]
-28/12 |  |
+28/12 | `pst-hsb` | [[CTAN](http://www.ctan.org/pkg/pst-hsb)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-hsb)]
 29/12 |  |
 30/12 |  |
 31/12 |  |
