@@ -192,7 +192,7 @@ Day | Package | Link
 27/12 | `knowledge` | [[CTAN](http://www.ctan.org/pkg/knowledge)]&emsp;[[Documentation](https://texdoc.org/pkg/knowledge)]
 28/12 | `pst-hsb` | [[CTAN](http://www.ctan.org/pkg/pst-hsb)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-hsb)]
 29/12 | `termsim` | [[CTAN](http://www.ctan.org/pkg/termsim)]&emsp;[[Documentation](https://texdoc.org/pkg/termsim)]
-30/12 |  |
+30/12 | `autopuncitems` | [[CTAN](http://www.ctan.org/pkg/autopuncitems)]&emsp;[[Documentation](https://texdoc.org/pkg/autopuncitems)]
 31/12 |  |
 01/01 |  |
 02/01 |  |
