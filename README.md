@@ -193,7 +193,7 @@ Day | Package | Link
 28/12 | `pst-hsb` | [[CTAN](http://www.ctan.org/pkg/pst-hsb)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-hsb)]
 29/12 | `termsim` | [[CTAN](http://www.ctan.org/pkg/termsim)]&emsp;[[Documentation](https://texdoc.org/pkg/termsim)]
 30/12 | `autopuncitems` | [[CTAN](http://www.ctan.org/pkg/autopuncitems)]&emsp;[[Documentation](https://texdoc.org/pkg/autopuncitems)]
-31/12 |  |
+31/12 | `folding (TikZ Library)` | [[CTAN](https://www.ctan.org/pkg/pgf)]&emsp;[[Documentation](https://texdoc.org/pkg/pgf)]
 01/01 |  |
 02/01 |  |
 03/01 |  |
