@@ -195,7 +195,7 @@ Day | Package | Link
 30/12 | `autopuncitems` | [[CTAN](http://www.ctan.org/pkg/autopuncitems)]&emsp;[[Documentation](https://texdoc.org/pkg/autopuncitems)]
 31/12 | `folding (TikZ Library)` | [[CTAN](https://www.ctan.org/pkg/pgf)]&emsp;[[Documentation](https://texdoc.org/pkg/pgf)]
 01/01 | `calxxxx-yyyy` | [[CTAN](https://www.ctan.org/pkg/calxxxx-yyyy)]&emsp;[[Documentation](https://texdoc.org/pkg/calxxxx-yyyy)]
-02/01 |  |
+02/01 | `DPcircling` | [[CTAN](http://www.ctan.org/pkg/DPcircling)]&emsp;[[Documentation](https://texdoc.org/pkg/DPcircling)]
 03/01 |  |
 04/01 |  |
 05/01 |  |
