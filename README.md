@@ -197,7 +197,7 @@ Day | Package | Link
 01/01 | `calxxxx-yyyy` | [[CTAN](https://www.ctan.org/pkg/calxxxx-yyyy)]&emsp;[[Documentation](https://texdoc.org/pkg/calxxxx-yyyy)]
 02/01 | `DPcircling` | [[CTAN](http://www.ctan.org/pkg/DPcircling)]&emsp;[[Documentation](https://texdoc.org/pkg/DPcircling)]
 03/01 | `fourier` | [[CTAN](http://www.ctan.org/pkg/fourier)]&emsp;[[Documentation](https://texdoc.org/pkg/fourier)]
-04/01 |  |
+04/01 | `avremu` | [[CTAN](http://www.ctan.org/pkg/avremu)]&emsp;[[Documentation](https://texdoc.org/pkg/avremu)]
 05/01 |  |
 06/01 |  |
 07/01 |  |
