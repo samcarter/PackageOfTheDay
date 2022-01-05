@@ -198,7 +198,7 @@ Day | Package | Link
 02/01 | `DPcircling` | [[CTAN](http://www.ctan.org/pkg/DPcircling)]&emsp;[[Documentation](https://texdoc.org/pkg/DPcircling)]
 03/01 | `fourier` | [[CTAN](http://www.ctan.org/pkg/fourier)]&emsp;[[Documentation](https://texdoc.org/pkg/fourier)]
 04/01 | `avremu` | [[CTAN](http://www.ctan.org/pkg/avremu)]&emsp;[[Documentation](https://texdoc.org/pkg/avremu)]
-05/01 |  |
+05/01 | `pst-geo` | [[CTAN](http://www.ctan.org/pkg/pst-geo)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-geo)]
 06/01 |  |
 07/01 |  |
 08/01 |  |
