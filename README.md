@@ -200,7 +200,7 @@ Day | Package | Link
 04/01 | `avremu` | [[CTAN](http://www.ctan.org/pkg/avremu)]&emsp;[[Documentation](https://texdoc.org/pkg/avremu)]
 05/01 | `pst-geo` | [[CTAN](http://www.ctan.org/pkg/pst-geo)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-geo)]
 06/01 | `WebQuiz` | [[CTAN](http://www.ctan.org/pkg/WebQuiz)]&emsp;[[Documentation](https://texdoc.org/pkg/WebQuiz)]
-07/01 |  |
+07/01 | `cellspace` | [[CTAN](http://www.ctan.org/pkg/cellspace)]&emsp;[[Documentation](https://texdoc.org/pkg/cellspace)]
 08/01 |  |
 09/01 |  |
 10/01 |  |
