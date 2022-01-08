@@ -201,7 +201,7 @@ Day | Package | Link
 05/01 | `pst-geo` | [[CTAN](http://www.ctan.org/pkg/pst-geo)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-geo)]
 06/01 | `WebQuiz` | [[CTAN](http://www.ctan.org/pkg/WebQuiz)]&emsp;[[Documentation](https://texdoc.org/pkg/WebQuiz)]
 07/01 | `cellspace` | [[CTAN](http://www.ctan.org/pkg/cellspace)]&emsp;[[Documentation](https://texdoc.org/pkg/cellspace)]
-08/01 |  |
+08/01 | `dbshow` | [[CTAN](http://www.ctan.org/pkg/dbshow)]&emsp;[[Documentation](https://texdoc.org/pkg/dbshow)]
 09/01 |  |
 10/01 |  |
 11/01 |  |
