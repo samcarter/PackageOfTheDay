@@ -202,7 +202,7 @@ Day | Package | Link
 06/01 | `WebQuiz` | [[CTAN](http://www.ctan.org/pkg/WebQuiz)]&emsp;[[Documentation](https://texdoc.org/pkg/WebQuiz)]
 07/01 | `cellspace` | [[CTAN](http://www.ctan.org/pkg/cellspace)]&emsp;[[Documentation](https://texdoc.org/pkg/cellspace)]
 08/01 | `dbshow` | [[CTAN](http://www.ctan.org/pkg/dbshow)]&emsp;[[Documentation](https://texdoc.org/pkg/dbshow)]
-09/01 |  |
+09/01 | `hobby` | [[CTAN](http://www.ctan.org/pkg/hobby)]&emsp;[[Documentation](https://texdoc.org/pkg/hobby)]
 10/01 |  |
 11/01 |  |
 12/01 |  |
