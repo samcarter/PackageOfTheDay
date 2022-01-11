@@ -204,7 +204,7 @@ Day | Package | Link
 08/01 | `dbshow` | [[CTAN](http://www.ctan.org/pkg/dbshow)]&emsp;[[Documentation](https://texdoc.org/pkg/dbshow)]
 09/01 | `hobby` | [[CTAN](http://www.ctan.org/pkg/hobby)]&emsp;[[Documentation](https://texdoc.org/pkg/hobby)]
 10/01 | `niceframe` | [[CTAN](http://www.ctan.org/pkg/niceframe)]&emsp;[[Documentation](https://texdoc.org/pkg/niceframe)]
-11/01 |  |
+11/01 | `savetrees` | [[CTAN](http://www.ctan.org/pkg/savetrees)]&emsp;[[Documentation](https://texdoc.org/pkg/savetrees)]
 12/01 |  |
 13/01 |  |
 14/01 |  |
