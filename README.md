@@ -205,7 +205,7 @@ Day | Package | Link
 09/01 | `hobby` | [[CTAN](http://www.ctan.org/pkg/hobby)]&emsp;[[Documentation](https://texdoc.org/pkg/hobby)]
 10/01 | `niceframe` | [[CTAN](http://www.ctan.org/pkg/niceframe)]&emsp;[[Documentation](https://texdoc.org/pkg/niceframe)]
 11/01 | `savetrees` | [[CTAN](http://www.ctan.org/pkg/savetrees)]&emsp;[[Documentation](https://texdoc.org/pkg/savetrees)]
-12/01 |  |
+12/01 | `biblatex-readbbl` | [[CTAN](http://www.ctan.org/pkg/biblatex-readbbl)]&emsp;[[Documentation](https://texdoc.org/pkg/biblatex-readbbl)]
 13/01 |  |
 14/01 |  |
 15/01 |  |
