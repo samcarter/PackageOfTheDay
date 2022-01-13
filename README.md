@@ -206,7 +206,7 @@ Day | Package | Link
 10/01 | `niceframe` | [[CTAN](http://www.ctan.org/pkg/niceframe)]&emsp;[[Documentation](https://texdoc.org/pkg/niceframe)]
 11/01 | `savetrees` | [[CTAN](http://www.ctan.org/pkg/savetrees)]&emsp;[[Documentation](https://texdoc.org/pkg/savetrees)]
 12/01 | `biblatex-readbbl` | [[CTAN](http://www.ctan.org/pkg/biblatex-readbbl)]&emsp;[[Documentation](https://texdoc.org/pkg/biblatex-readbbl)]
-13/01 |  |
+13/01 | `sillypage` | [[CTAN](http://www.ctan.org/pkg/sillypage)]&emsp;[[Documentation](https://texdoc.org/pkg/sillypage)]
 14/01 |  |
 15/01 |  |
 16/01 |  |
