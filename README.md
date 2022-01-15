@@ -208,7 +208,7 @@ Day | Package | Link
 12/01 | `biblatex-readbbl` | [[CTAN](http://www.ctan.org/pkg/biblatex-readbbl)]&emsp;[[Documentation](https://texdoc.org/pkg/biblatex-readbbl)]
 13/01 | `sillypage` | [[CTAN](http://www.ctan.org/pkg/sillypage)]&emsp;[[Documentation](https://texdoc.org/pkg/sillypage)]
 14/01 | `eCards` | [[CTAN](http://www.ctan.org/pkg/eCards)]&emsp;[[Documentation](https://texdoc.org/pkg/eCards)]
-15/01 |  |
+15/01 | `stubs` | [[CTAN](http://www.ctan.org/pkg/stubs)]&emsp;[[Documentation](https://texdoc.org/pkg/stubs)]
 16/01 |  |
 17/01 |  |
 18/01 |  |
