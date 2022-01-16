@@ -209,7 +209,7 @@ Day | Package | Link
 13/01 | `sillypage` | [[CTAN](http://www.ctan.org/pkg/sillypage)]&emsp;[[Documentation](https://texdoc.org/pkg/sillypage)]
 14/01 | `eCards` | [[CTAN](http://www.ctan.org/pkg/eCards)]&emsp;[[Documentation](https://texdoc.org/pkg/eCards)]
 15/01 | `stubs` | [[CTAN](http://www.ctan.org/pkg/stubs)]&emsp;[[Documentation](https://texdoc.org/pkg/stubs)]
-16/01 |  |
+16/01 | `datestamp` | [[CTAN](http://www.ctan.org/pkg/datestamp)]&emsp;[[Documentation](https://texdoc.org/pkg/datestamp)]
 17/01 |  |
 18/01 |  |
 19/01 |  |
