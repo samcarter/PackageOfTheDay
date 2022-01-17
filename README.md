@@ -210,7 +210,7 @@ Day | Package | Link
 14/01 | `eCards` | [[CTAN](http://www.ctan.org/pkg/eCards)]&emsp;[[Documentation](https://texdoc.org/pkg/eCards)]
 15/01 | `stubs` | [[CTAN](http://www.ctan.org/pkg/stubs)]&emsp;[[Documentation](https://texdoc.org/pkg/stubs)]
 16/01 | `datestamp` | [[CTAN](http://www.ctan.org/pkg/datestamp)]&emsp;[[Documentation](https://texdoc.org/pkg/datestamp)]
-17/01 |  |
+17/01 | `pythontex` | [[CTAN](http://www.ctan.org/pkg/pythontex)]&emsp;[[Documentation](https://texdoc.org/pkg/pythontex)]
 18/01 |  |
 19/01 |  |
 20/01 |  |
