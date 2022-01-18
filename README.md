@@ -211,7 +211,7 @@ Day | Package | Link
 15/01 | `stubs` | [[CTAN](http://www.ctan.org/pkg/stubs)]&emsp;[[Documentation](https://texdoc.org/pkg/stubs)]
 16/01 | `datestamp` | [[CTAN](http://www.ctan.org/pkg/datestamp)]&emsp;[[Documentation](https://texdoc.org/pkg/datestamp)]
 17/01 | `pythontex` | [[CTAN](http://www.ctan.org/pkg/pythontex)]&emsp;[[Documentation](https://texdoc.org/pkg/pythontex)]
-18/01 |  |
+18/01 | `pascaltriangle` | [[CTAN](http://www.ctan.org/pkg/pascaltriangle)]&emsp;[[Documentation](https://texdoc.org/pkg/pascaltriangle)]
 19/01 |  |
 20/01 |  |
 21/01 |  |
