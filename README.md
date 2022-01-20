@@ -213,7 +213,7 @@ Day | Package | Link
 17/01 | `pythontex` | [[CTAN](http://www.ctan.org/pkg/pythontex)]&emsp;[[Documentation](https://texdoc.org/pkg/pythontex)]
 18/01 | `pascaltriangle` | [[CTAN](http://www.ctan.org/pkg/pascaltriangle)]&emsp;[[Documentation](https://texdoc.org/pkg/pascaltriangle)]
 19/01 | `sesstime` | [[CTAN](http://www.ctan.org/pkg/sesstime)]&emsp;[[Documentation](https://texdoc.org/pkg/sesstime)]
-20/01 |  |
+20/01 | `fancypar` | [[CTAN](http://www.ctan.org/pkg/fancypar)]&emsp;[[Documentation](https://texdoc.org/pkg/fancypar)]
 21/01 |  |
 22/01 |  |
 23/01 |  |
