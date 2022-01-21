@@ -214,7 +214,7 @@ Day | Package | Link
 18/01 | `pascaltriangle` | [[CTAN](http://www.ctan.org/pkg/pascaltriangle)]&emsp;[[Documentation](https://texdoc.org/pkg/pascaltriangle)]
 19/01 | `sesstime` | [[CTAN](http://www.ctan.org/pkg/sesstime)]&emsp;[[Documentation](https://texdoc.org/pkg/sesstime)]
 20/01 | `fancypar` | [[CTAN](http://www.ctan.org/pkg/fancypar)]&emsp;[[Documentation](https://texdoc.org/pkg/fancypar)]
-21/01 |  |
+21/01 | `syntonly` | [[CTAN](http://www.ctan.org/pkg/syntonly)]&emsp;[[Documentation](https://texdoc.org/pkg/syntonly)]
 22/01 |  |
 23/01 |  |
 24/01 |  |
