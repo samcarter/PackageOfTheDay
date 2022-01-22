@@ -215,7 +215,7 @@ Day | Package | Link
 19/01 | `sesstime` | [[CTAN](http://www.ctan.org/pkg/sesstime)]&emsp;[[Documentation](https://texdoc.org/pkg/sesstime)]
 20/01 | `fancypar` | [[CTAN](http://www.ctan.org/pkg/fancypar)]&emsp;[[Documentation](https://texdoc.org/pkg/fancypar)]
 21/01 | `syntonly` | [[CTAN](http://www.ctan.org/pkg/syntonly)]&emsp;[[Documentation](https://texdoc.org/pkg/syntonly)]
-22/01 |  |
+22/01 | `gitlog` | [[CTAN](http://www.ctan.org/pkg/gitlog)]&emsp;[[Documentation](https://texdoc.org/pkg/gitlog)]
 23/01 |  |
 24/01 |  |
 25/01 |  |
