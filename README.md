@@ -217,7 +217,7 @@ Day | Package | Link
 21/01 | `syntonly` | [[CTAN](http://www.ctan.org/pkg/syntonly)]&emsp;[[Documentation](https://texdoc.org/pkg/syntonly)]
 22/01 | `gitlog` | [[CTAN](http://www.ctan.org/pkg/gitlog)]&emsp;[[Documentation](https://texdoc.org/pkg/gitlog)]
 23/01 | `hamnosys` | [[CTAN](http://www.ctan.org/pkg/hamnosys)]&emsp;[[Documentation](https://texdoc.org/pkg/hamnosys)]
-24/01 |  |
+24/01 | `froufrou` | [[CTAN](http://www.ctan.org/pkg/froufrou)]&emsp;[[Documentation](https://texdoc.org/pkg/froufrou)]
 25/01 |  |
 26/01 |  |
 27/01 |  |
