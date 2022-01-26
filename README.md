@@ -219,7 +219,7 @@ Day | Package | Link
 23/01 | `hamnosys` | [[CTAN](http://www.ctan.org/pkg/hamnosys)]&emsp;[[Documentation](https://texdoc.org/pkg/hamnosys)]
 24/01 | `froufrou` | [[CTAN](http://www.ctan.org/pkg/froufrou)]&emsp;[[Documentation](https://texdoc.org/pkg/froufrou)]
 25/01 | `aliascnt` | [[CTAN](http://www.ctan.org/pkg/aliascnt)]&emsp;[[Documentation](https://texdoc.org/pkg/aliascnt)]
-26/01 |  |
+26/01 | `easylist` | [[CTAN](http://www.ctan.org/pkg/easylist)]&emsp;[[Documentation](https://texdoc.org/pkg/easylist)]
 27/01 |  |
 28/01 |  |
 29/01 |  |
