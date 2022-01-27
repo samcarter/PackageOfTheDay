@@ -220,7 +220,7 @@ Day | Package | Link
 24/01 | `froufrou` | [[CTAN](http://www.ctan.org/pkg/froufrou)]&emsp;[[Documentation](https://texdoc.org/pkg/froufrou)]
 25/01 | `aliascnt` | [[CTAN](http://www.ctan.org/pkg/aliascnt)]&emsp;[[Documentation](https://texdoc.org/pkg/aliascnt)]
 26/01 | `easylist` | [[CTAN](http://www.ctan.org/pkg/easylist)]&emsp;[[Documentation](https://texdoc.org/pkg/easylist)]
-27/01 |  |
+27/01 | `byo-twemojis` | [[CTAN](http://www.ctan.org/pkg/byo-twemojis)]&emsp;[[Documentation](https://texdoc.org/pkg/byo-twemojis)]
 28/01 |  |
 29/01 |  |
 30/01 |  |
