@@ -221,7 +221,7 @@ Day | Package | Link
 25/01 | `aliascnt` | [[CTAN](http://www.ctan.org/pkg/aliascnt)]&emsp;[[Documentation](https://texdoc.org/pkg/aliascnt)]
 26/01 | `easylist` | [[CTAN](http://www.ctan.org/pkg/easylist)]&emsp;[[Documentation](https://texdoc.org/pkg/easylist)]
 27/01 | `byo-twemojis` | [[CTAN](http://www.ctan.org/pkg/byo-twemojis)]&emsp;[[Documentation](https://texdoc.org/pkg/byo-twemojis)]
-28/01 |  |
+28/01 | `floatpag` | [[CTAN](http://www.ctan.org/pkg/floatpag)]&emsp;[[Documentation](https://texdoc.org/pkg/floatpag)]
 29/01 |  |
 30/01 |  |
 31/01 |  |
