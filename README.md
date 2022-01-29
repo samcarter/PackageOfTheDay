@@ -222,7 +222,7 @@ Day | Package | Link
 26/01 | `easylist` | [[CTAN](http://www.ctan.org/pkg/easylist)]&emsp;[[Documentation](https://texdoc.org/pkg/easylist)]
 27/01 | `byo-twemojis` | [[CTAN](http://www.ctan.org/pkg/byo-twemojis)]&emsp;[[Documentation](https://texdoc.org/pkg/byo-twemojis)]
 28/01 | `floatpag` | [[CTAN](http://www.ctan.org/pkg/floatpag)]&emsp;[[Documentation](https://texdoc.org/pkg/floatpag)]
-29/01 |  |
+29/01 | `randomwalk` | [[CTAN](http://www.ctan.org/pkg/randomwalk)]&emsp;[[Documentation](https://texdoc.org/pkg/randomwalk)]
 30/01 |  |
 31/01 |  |
 01/02 |  |
