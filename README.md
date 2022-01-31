@@ -224,7 +224,7 @@ Day | Package | Link
 28/01 | `floatpag` | [[CTAN](http://www.ctan.org/pkg/floatpag)]&emsp;[[Documentation](https://texdoc.org/pkg/floatpag)]
 29/01 | `randomwalk` | [[CTAN](http://www.ctan.org/pkg/randomwalk)]&emsp;[[Documentation](https://texdoc.org/pkg/randomwalk)]
 30/01 | `nth` | [[CTAN](http://www.ctan.org/pkg/nth)]&emsp;[[Documentation](https://texdoc.org/pkg/nth)]
-31/01 |  |
+31/01 | `sparklines` | [[CTAN](http://www.ctan.org/pkg/sparklines)]&emsp;[[Documentation](https://texdoc.org/pkg/sparklines)]
 01/02 |  |
 02/02 |  |
 03/02 |  |
