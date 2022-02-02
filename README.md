@@ -226,7 +226,7 @@ Day | Package | Link
 30/01 | `nth` | [[CTAN](http://www.ctan.org/pkg/nth)]&emsp;[[Documentation](https://texdoc.org/pkg/nth)]
 31/01 | `sparklines` | [[CTAN](http://www.ctan.org/pkg/sparklines)]&emsp;[[Documentation](https://texdoc.org/pkg/sparklines)]
 01/02 | `china2e` | [[CTAN](https://www.ctan.org/pkg/china2e)]&emsp;[[Documentation](https://texdoc.org/pkg/china2e)]
-02/02 |  |
+02/02 | `TikZlings` | [[CTAN](https://www.ctan.org/pkg/tikzlings)]&emsp;[[Documentation](https://texdoc.org/pkg/tikzlings)]
 03/02 |  |
 04/02 |  |
 05/02 |  |
