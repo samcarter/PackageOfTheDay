@@ -228,7 +228,7 @@ Day | Package | Link
 01/02 | `china2e` | [[CTAN](https://www.ctan.org/pkg/china2e)]&emsp;[[Documentation](https://texdoc.org/pkg/china2e)]
 02/02 | `TikZlings` | [[CTAN](https://www.ctan.org/pkg/tikzlings)]&emsp;[[Documentation](https://texdoc.org/pkg/tikzlings)]
 03/02 | `enigma` | [[CTAN](http://www.ctan.org/pkg/enigma)]&emsp;[[Documentation](https://texdoc.org/pkg/enigma)]
-04/02 |  |
+04/02 | `excludeonly` | [[CTAN](http://www.ctan.org/pkg/excludeonly)]&emsp;[[Documentation](https://texdoc.org/pkg/excludeonly)]
 05/02 |  |
 06/02 |  |
 07/02 |  |
