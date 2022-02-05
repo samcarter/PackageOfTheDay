@@ -229,7 +229,7 @@ Day | Package | Link
 02/02 | `TikZlings` | [[CTAN](https://www.ctan.org/pkg/tikzlings)]&emsp;[[Documentation](https://texdoc.org/pkg/tikzlings)]
 03/02 | `enigma` | [[CTAN](http://www.ctan.org/pkg/enigma)]&emsp;[[Documentation](https://texdoc.org/pkg/enigma)]
 04/02 | `excludeonly` | [[CTAN](http://www.ctan.org/pkg/excludeonly)]&emsp;[[Documentation](https://texdoc.org/pkg/excludeonly)]
-05/02 |  |
+05/02 | `texlogfilter` | [[CTAN](http://www.ctan.org/pkg/texlogfilter)]&emsp;[[Documentation](https://texdoc.org/pkg/texlogfilter)]
 06/02 |  |
 07/02 |  |
 08/02 |  |
