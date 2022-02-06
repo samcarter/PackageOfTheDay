@@ -230,7 +230,7 @@ Day | Package | Link
 03/02 | `enigma` | [[CTAN](http://www.ctan.org/pkg/enigma)]&emsp;[[Documentation](https://texdoc.org/pkg/enigma)]
 04/02 | `excludeonly` | [[CTAN](http://www.ctan.org/pkg/excludeonly)]&emsp;[[Documentation](https://texdoc.org/pkg/excludeonly)]
 05/02 | `texlogfilter` | [[CTAN](http://www.ctan.org/pkg/texlogfilter)]&emsp;[[Documentation](https://texdoc.org/pkg/texlogfilter)]
-06/02 |  |
+06/02 | `coseoul` | [[CTAN](http://www.ctan.org/pkg/coseoul)]&emsp;[[Documentation](https://texdoc.org/pkg/coseoul)]
 07/02 |  |
 08/02 |  |
 09/02 |  |
