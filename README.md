@@ -231,7 +231,7 @@ Day | Package | Link
 04/02 | `excludeonly` | [[CTAN](http://www.ctan.org/pkg/excludeonly)]&emsp;[[Documentation](https://texdoc.org/pkg/excludeonly)]
 05/02 | `texlogfilter` | [[CTAN](http://www.ctan.org/pkg/texlogfilter)]&emsp;[[Documentation](https://texdoc.org/pkg/texlogfilter)]
 06/02 | `coseoul` | [[CTAN](http://www.ctan.org/pkg/coseoul)]&emsp;[[Documentation](https://texdoc.org/pkg/coseoul)]
-07/02 |  |
+07/02 | `elements` | [[CTAN](http://www.ctan.org/pkg/elements)]&emsp;[[Documentation](https://texdoc.org/pkg/elements)]
 08/02 |  |
 09/02 |  |
 10/02 |  |
