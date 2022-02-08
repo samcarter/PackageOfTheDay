@@ -232,7 +232,7 @@ Day | Package | Link
 05/02 | `texlogfilter` | [[CTAN](http://www.ctan.org/pkg/texlogfilter)]&emsp;[[Documentation](https://texdoc.org/pkg/texlogfilter)]
 06/02 | `coseoul` | [[CTAN](http://www.ctan.org/pkg/coseoul)]&emsp;[[Documentation](https://texdoc.org/pkg/coseoul)]
 07/02 | `elements` | [[CTAN](http://www.ctan.org/pkg/elements)]&emsp;[[Documentation](https://texdoc.org/pkg/elements)]
-08/02 |  |
+08/02 | `gradientframe` | [[CTAN](http://www.ctan.org/pkg/gradientframe)]&emsp;[[Documentation](https://texdoc.org/pkg/gradientframe)]
 09/02 |  |
 10/02 |  |
 11/02 |  |
