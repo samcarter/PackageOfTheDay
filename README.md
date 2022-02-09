@@ -233,7 +233,7 @@ Day | Package | Link
 06/02 | `coseoul` | [[CTAN](http://www.ctan.org/pkg/coseoul)]&emsp;[[Documentation](https://texdoc.org/pkg/coseoul)]
 07/02 | `elements` | [[CTAN](http://www.ctan.org/pkg/elements)]&emsp;[[Documentation](https://texdoc.org/pkg/elements)]
 08/02 | `gradientframe` | [[CTAN](http://www.ctan.org/pkg/gradientframe)]&emsp;[[Documentation](https://texdoc.org/pkg/gradientframe)]
-09/02 |  |
+09/02 | `crefthe` | [[CTAN](http://www.ctan.org/pkg/crefthe)]&emsp;[[Documentation](https://texdoc.org/pkg/crefthe)]
 10/02 |  |
 11/02 |  |
 12/02 |  |
