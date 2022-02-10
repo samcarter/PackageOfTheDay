@@ -234,7 +234,7 @@ Day | Package | Link
 07/02 | `elements` | [[CTAN](http://www.ctan.org/pkg/elements)]&emsp;[[Documentation](https://texdoc.org/pkg/elements)]
 08/02 | `gradientframe` | [[CTAN](http://www.ctan.org/pkg/gradientframe)]&emsp;[[Documentation](https://texdoc.org/pkg/gradientframe)]
 09/02 | `crefthe` | [[CTAN](http://www.ctan.org/pkg/crefthe)]&emsp;[[Documentation](https://texdoc.org/pkg/crefthe)]
-10/02 |  |
+10/02 | `zref-vario` | [[CTAN](http://www.ctan.org/pkg/zref-vario)]&emsp;[[Documentation](https://texdoc.org/pkg/zref-vario)]
 11/02 |  |
 12/02 |  |
 13/02 |  |
