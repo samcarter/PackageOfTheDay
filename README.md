@@ -236,7 +236,7 @@ Day | Package | Link
 09/02 | `crefthe` | [[CTAN](http://www.ctan.org/pkg/crefthe)]&emsp;[[Documentation](https://texdoc.org/pkg/crefthe)]
 10/02 | `zref-vario` | [[CTAN](http://www.ctan.org/pkg/zref-vario)]&emsp;[[Documentation](https://texdoc.org/pkg/zref-vario)]
 11/02 | `romannum` | [[CTAN](http://www.ctan.org/pkg/romannum)]&emsp;[[Documentation](https://texdoc.org/pkg/romannum)]
-12/02 |  |
+12/02 | `engord` | [[CTAN](http://www.ctan.org/pkg/engord)]&emsp;[[Documentation](https://texdoc.org/pkg/engord)]
 13/02 |  |
 14/02 |  |
 15/02 |  |
