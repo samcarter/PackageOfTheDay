@@ -237,7 +237,7 @@ Day | Package | Link
 10/02 | `zref-vario` | [[CTAN](http://www.ctan.org/pkg/zref-vario)]&emsp;[[Documentation](https://texdoc.org/pkg/zref-vario)]
 11/02 | `romannum` | [[CTAN](http://www.ctan.org/pkg/romannum)]&emsp;[[Documentation](https://texdoc.org/pkg/romannum)]
 12/02 | `engord` | [[CTAN](http://www.ctan.org/pkg/engord)]&emsp;[[Documentation](https://texdoc.org/pkg/engord)]
-13/02 |  |
+13/02 | `byrne` | [[CTAN](http://www.ctan.org/pkg/byrne)]&emsp;[[Documentation](https://texdoc.org/pkg/byrne)]
 14/02 |  |
 15/02 |  |
 16/02 |  |
