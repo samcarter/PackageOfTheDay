@@ -238,7 +238,7 @@ Day | Package | Link
 11/02 | `romannum` | [[CTAN](http://www.ctan.org/pkg/romannum)]&emsp;[[Documentation](https://texdoc.org/pkg/romannum)]
 12/02 | `engord` | [[CTAN](http://www.ctan.org/pkg/engord)]&emsp;[[Documentation](https://texdoc.org/pkg/engord)]
 13/02 | `byrne` | [[CTAN](http://www.ctan.org/pkg/byrne)]&emsp;[[Documentation](https://texdoc.org/pkg/byrne)]
-14/02 |  |
+14/02 | `texsurgery` | [[CTAN](http://www.ctan.org/pkg/texsurgery)]&emsp;[[Documentation](https://texdoc.org/pkg/texsurgery)]
 15/02 |  |
 16/02 |  |
 17/02 |  |
