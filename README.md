@@ -239,7 +239,7 @@ Day | Package | Link
 12/02 | `engord` | [[CTAN](http://www.ctan.org/pkg/engord)]&emsp;[[Documentation](https://texdoc.org/pkg/engord)]
 13/02 | `byrne` | [[CTAN](http://www.ctan.org/pkg/byrne)]&emsp;[[Documentation](https://texdoc.org/pkg/byrne)]
 14/02 | `texsurgery` | [[CTAN](http://www.ctan.org/pkg/texsurgery)]&emsp;[[Documentation](https://texdoc.org/pkg/texsurgery)]
-15/02 |  |
+15/02 | `texloganalyser` | [[CTAN](http://www.ctan.org/pkg/texloganalyser)]&emsp;[[Documentation](https://texdoc.org/pkg/texloganalyser)]
 16/02 |  |
 17/02 |  |
 18/02 |  |
