@@ -240,7 +240,7 @@ Day | Package | Link
 13/02 | `byrne` | [[CTAN](http://www.ctan.org/pkg/byrne)]&emsp;[[Documentation](https://texdoc.org/pkg/byrne)]
 14/02 | `texsurgery` | [[CTAN](http://www.ctan.org/pkg/texsurgery)]&emsp;[[Documentation](https://texdoc.org/pkg/texsurgery)]
 15/02 | `texloganalyser` | [[CTAN](http://www.ctan.org/pkg/texloganalyser)]&emsp;[[Documentation](https://texdoc.org/pkg/texloganalyser)]
-16/02 |  |
+16/02 | `snotez` | [[CTAN](http://www.ctan.org/pkg/snotez)]&emsp;[[Documentation](https://texdoc.org/pkg/snotez)]
 17/02 |  |
 18/02 |  |
 19/02 |  |
