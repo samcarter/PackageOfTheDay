@@ -243,8 +243,8 @@ Day | Package | Link
 16/02 | `snotez` | [[CTAN](http://www.ctan.org/pkg/snotez)]&emsp;[[Documentation](https://texdoc.org/pkg/snotez)]
 17/02 | `datetime2` | [[CTAN](http://www.ctan.org/pkg/datetime2)]&emsp;[[Documentation](https://texdoc.org/pkg/datetime2)]
 18/02 | `adfsymbols` | [[CTAN](http://www.ctan.org/pkg/adfsymbols)]&emsp;[[Documentation](https://texdoc.org/pkg/adfsymbols)]
-19/02 |  |
-20/02 |  |
+19/02 | `tikz-layers` | [[CTAN](http://www.ctan.org/pkg/tikz-layers)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-layers)]
+20/02 | `decorule` | [[CTAN](http://www.ctan.org/pkg/decorule)]&emsp;[[Documentation](https://texdoc.org/pkg/decorule)]
 21/02 |  |
 22/02 |  |
 23/02 |  |
