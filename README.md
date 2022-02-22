@@ -246,7 +246,7 @@ Day | Package | Link
 19/02 | `tikz-layers` | [[CTAN](http://www.ctan.org/pkg/tikz-layers)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-layers)]
 20/02 | `decorule` | [[CTAN](http://www.ctan.org/pkg/decorule)]&emsp;[[Documentation](https://texdoc.org/pkg/decorule)]
 21/02 | `chroma` | [[CTAN](http://www.ctan.org/pkg/chroma)]&emsp;[[Documentation](https://texdoc.org/pkg/chroma)]
-22/02 |  |
+22/02 | `casiofont` | [[CTAN](http://www.ctan.org/pkg/casiofont)]&emsp;[[Documentation](https://texdoc.org/pkg/casiofont)]
 23/02 |  |
 24/02 |  |
 25/02 |  |
