@@ -248,7 +248,7 @@ Day | Package | Link
 21/02 | `chroma` | [[CTAN](http://www.ctan.org/pkg/chroma)]&emsp;[[Documentation](https://texdoc.org/pkg/chroma)]
 22/02 | `casiofont` | [[CTAN](http://www.ctan.org/pkg/casiofont)]&emsp;[[Documentation](https://texdoc.org/pkg/casiofont)]
 23/02 | `flowfram` | [[CTAN](http://www.ctan.org/pkg/flowfram)]&emsp;[[Documentation](https://texdoc.org/pkg/flowfram)]
-24/02 |  |
+24/02 | `make4ht` | [[CTAN](http://www.ctan.org/pkg/make4ht)]&emsp;[[Documentation](https://texdoc.org/pkg/make4ht)]
 25/02 |  |
 26/02 |  |
 27/02 |  |
