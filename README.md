@@ -250,7 +250,7 @@ Day | Package | Link
 23/02 | `flowfram` | [[CTAN](http://www.ctan.org/pkg/flowfram)]&emsp;[[Documentation](https://texdoc.org/pkg/flowfram)]
 24/02 | `make4ht` | [[CTAN](http://www.ctan.org/pkg/make4ht)]&emsp;[[Documentation](https://texdoc.org/pkg/make4ht)]
 25/02 | `snapshot` | [[CTAN](http://www.ctan.org/pkg/snapshot)]&emsp;[[Documentation](https://texdoc.org/pkg/snapshot)]
-26/02 |  |
+26/02 | `spreadtab` | [[CTAN](http://www.ctan.org/pkg/spreadtab)]&emsp;[[Documentation](https://texdoc.org/pkg/spreadtab)]
 27/02 |  |
 28/02 |  |
 01/03 |  |
