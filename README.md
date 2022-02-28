@@ -252,7 +252,7 @@ Day | Package | Link
 25/02 | `snapshot` | [[CTAN](http://www.ctan.org/pkg/snapshot)]&emsp;[[Documentation](https://texdoc.org/pkg/snapshot)]
 26/02 | `spreadtab` | [[CTAN](http://www.ctan.org/pkg/spreadtab)]&emsp;[[Documentation](https://texdoc.org/pkg/spreadtab)]
 27/02 | `papercdcase` | [[CTAN](https://www.ctan.org/pkg/papercdcase)]&emsp;[[Documentation](https://texdoc.org/pkg/papercdcase)]
-28/02 |  |
+28/02 | `cancel` | [[CTAN](http://www.ctan.org/pkg/cancel)]&emsp;[[Documentation](https://texdoc.org/pkg/cancel)]
 01/03 |  |
 02/03 |  |
 03/03 |  |
