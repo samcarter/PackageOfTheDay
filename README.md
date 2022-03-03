@@ -71,6 +71,7 @@ Day | Package | Link
 28/02 | `cancel` | [[CTAN](http://www.ctan.org/pkg/cancel)]&emsp;[[Documentation](https://texdoc.org/pkg/cancel)]
 01/03 | `xcharter-math` | [[CTAN](http://www.ctan.org/pkg/xcharter-math)]&emsp;[[Documentation](https://texdoc.org/pkg/xcharter-math)]
 02/03 | `tex4ebook` | [[CTAN](http://www.ctan.org/pkg/tex4ebook)]&emsp;[[Documentation](https://texdoc.org/pkg/tex4ebook)]
+03/03 | `luacensor` | [[CTAN](http://www.ctan.org/pkg/luacensor)]&emsp;[[Documentation](https://texdoc.org/pkg/luacensor)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
