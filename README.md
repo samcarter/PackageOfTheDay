@@ -73,6 +73,7 @@ Day | Package | Link
 02/03 | `tex4ebook` | [[CTAN](http://www.ctan.org/pkg/tex4ebook)]&emsp;[[Documentation](https://texdoc.org/pkg/tex4ebook)]
 03/03 | `luacensor` | [[CTAN](http://www.ctan.org/pkg/luacensor)]&emsp;[[Documentation](https://texdoc.org/pkg/luacensor)]
 04/03 | `refcount` | [[CTAN](http://www.ctan.org/pkg/refcount)]&emsp;[[Documentation](https://texdoc.org/pkg/refcount)]
+05/03 | `flashcards` | [[CTAN](http://www.ctan.org/pkg/flashcards)]&emsp;[[Documentation](https://texdoc.org/pkg/flashcards)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
