@@ -76,6 +76,7 @@ Day | Package | Link
 05/03 | `flashcards` | [[CTAN](http://www.ctan.org/pkg/flashcards)]&emsp;[[Documentation](https://texdoc.org/pkg/flashcards)]
 06/03 | `atendofenv` | [[CTAN](http://www.ctan.org/pkg/atendofenv)]&emsp;[[Documentation](https://texdoc.org/pkg/atendofenv)]
 07/03 | `sTeX` | [[CTAN](http://www.ctan.org/pkg/stex)]&emsp;[[Documentation](https://texdoc.org/pkg/stex)]
+08/03 | `cascover` | [[CTAN](http://www.ctan.org/pkg/cascover)]&emsp;[[Documentation](https://texdoc.org/pkg/cascover)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
