@@ -81,6 +81,7 @@ Day | Package | Link
 10/03 | `hexboard` | [[CTAN](http://www.ctan.org/pkg/hexboard)]&emsp;[[Documentation](https://texdoc.org/pkg/hexboard)]
 11/03 | `clistmap` | [[CTAN](http://www.ctan.org/pkg/clistmap)]&emsp;[[Documentation](https://texdoc.org/pkg/clistmap)]
 12/03 | `placeins` | [[CTAN](http://www.ctan.org/pkg/placeins)]&emsp;[[Documentation](https://texdoc.org/pkg/placeins)]
+13/03 | `robotarm` | [[CTAN](http://www.ctan.org/pkg/robotarm)]&emsp;[[Documentation](https://texdoc.org/pkg/robotarm)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
