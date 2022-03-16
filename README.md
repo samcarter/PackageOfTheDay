@@ -84,6 +84,7 @@ Day | Package | Link
 13/03 | `robotarm` | [[CTAN](http://www.ctan.org/pkg/robotarm)]&emsp;[[Documentation](https://texdoc.org/pkg/robotarm)]
 14/03 | `linebreaker` | [[CTAN](http://www.ctan.org/pkg/linebreaker)]&emsp;[[Documentation](https://texdoc.org/pkg/linebreaker)]
 15/03 | `functional` | [[CTAN](http://www.ctan.org/pkg/functional)]&emsp;[[Documentation](https://texdoc.org/pkg/functional)]
+16/03 | `tzplot` | [[CTAN](http://www.ctan.org/pkg/tzplot)]&emsp;[[Documentation](https://texdoc.org/pkg/tzplot)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
