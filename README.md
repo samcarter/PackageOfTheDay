@@ -91,6 +91,7 @@ Day | Package | Link
 20/03 | `PyLuaTeX` | [[CTAN](http://www.ctan.org/pkg/PyLuaTeX)]&emsp;[[Documentation](https://texdoc.org/pkg/PyLuaTeX)]
 21/03 | `pas-crosswords` | [[CTAN](http://www.ctan.org/pkg/pas-crosswords)]&emsp;[[Documentation](https://texdoc.org/pkg/pas-crosswords)]
 22/03 | `academicons` | [[CTAN](http://www.ctan.org/pkg/academicons)]&emsp;[[Documentation](https://texdoc.org/pkg/academicons)]
+23/03 | `rerunfilecheck` | [[CTAN](http://www.ctan.org/pkg/rerunfilecheck)]&emsp;[[Documentation](https://texdoc.org/pkg/rerunfilecheck)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
