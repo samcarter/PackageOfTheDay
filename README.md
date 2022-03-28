@@ -96,6 +96,7 @@ Day | Package | Link
 25/03 | `swfigure` | [[CTAN](http://www.ctan.org/pkg/swfigure)]&emsp;[[Documentation](https://texdoc.org/pkg/swfigure)]
 26/03 | `namedef` | [[CTAN](http://www.ctan.org/pkg/namedef)]&emsp;[[Documentation](https://texdoc.org/pkg/namedef)]
 27/03 | `tikz-lake-fig` | [[CTAN](http://www.ctan.org/pkg/tikz-lake-fig)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-lake-fig)]
+28/03 | `luaaddplot` | [[CTAN](http://www.ctan.org/pkg/luaaddplot)]&emsp;[[Documentation](https://texdoc.org/pkg/luaaddplot)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
