@@ -99,6 +99,7 @@ Day | Package | Link
 28/03 | `luaaddplot` | [[CTAN](http://www.ctan.org/pkg/luaaddplot)]&emsp;[[Documentation](https://texdoc.org/pkg/luaaddplot)]
 29/03 | `noindentafter` | [[CTAN](http://www.ctan.org/pkg/noindentafter)]&emsp;[[Documentation](https://texdoc.org/pkg/noindentafter)]
 30/03 | `totcount` | [[CTAN](http://www.ctan.org/pkg/totcount)]&emsp;[[Documentation](https://texdoc.org/pkg/totcount)]
+31/03 | `dataref` | [[CTAN](http://www.ctan.org/pkg/dataref)]&emsp;[[Documentation](https://texdoc.org/pkg/dataref)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
