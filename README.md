@@ -103,6 +103,7 @@ Day | Package | Link
 01/04 | `adjmulticol` | [[CTAN](http://www.ctan.org/pkg/adjmulticol)]&emsp;[[Documentation](https://texdoc.org/pkg/adjmulticol)]
 02/04 | `stage` | [[CTAN](http://www.ctan.org/pkg/stage)]&emsp;[[Documentation](https://texdoc.org/pkg/stage)]
 03/04 | `annotate-equations` | [[CTAN](http://www.ctan.org/pkg/annotate-equations)]&emsp;[[Documentation](https://texdoc.org/pkg/annotate-equations)]
+04/04 | `scontents` | [[CTAN](http://www.ctan.org/pkg/scontents)]&emsp;[[Documentation](https://texdoc.org/pkg/scontents)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
