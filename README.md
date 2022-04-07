@@ -106,6 +106,7 @@ Day | Package | Link
 04/04 | `scontents` | [[CTAN](http://www.ctan.org/pkg/scontents)]&emsp;[[Documentation](https://texdoc.org/pkg/scontents)]
 05/04 | `pst-knot` | [[CTAN](http://www.ctan.org/pkg/pst-knot)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-knot)]
 06/04 | `emojicite` | [[CTAN](http://www.ctan.org/pkg/emojicite)]&emsp;[[Documentation](https://texdoc.org/pkg/emojicite)]
+07/04 | `simplenodes` | [[CTAN](http://www.ctan.org/pkg/simplenodes)]&emsp;[[Documentation](https://texdoc.org/pkg/simplenodes)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
