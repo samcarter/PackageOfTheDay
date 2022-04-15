@@ -114,6 +114,7 @@ Day | Package | Link
 12/04 | `pfdicons` | [[CTAN](https://www.ctan.org/pkg/pfdicons)]&emsp;[[Documentation](https://texdoc.org/pkg/pfdicons)]
 13/04 | `booktabs` | [[CTAN](https://www.ctan.org/pkg/booktabs)]&emsp;[[Documentation](https://texdoc.org/pkg/booktabs)]
 14/04 | `euclideangeometry` | [[CTAN](https://www.ctan.org/pkg/euclideangeometry)]&emsp;[[Documentation](https://texdoc.org/pkg/euclideangeometry)]
+15/04 | `jumplines` | [[CTAN](https://www.ctan.org/pkg/jumplines)]&emsp;[[Documentation](https://texdoc.org/pkg/jumplines)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
