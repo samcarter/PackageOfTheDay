@@ -117,6 +117,7 @@ Day | Package | Link
 15/04 | `jumplines` | [[CTAN](https://www.ctan.org/pkg/jumplines)]&emsp;[[Documentation](https://texdoc.org/pkg/jumplines)]
 16/04 | `graphpaper` | [[CTAN](https://www.ctan.org/pkg/graphpaper)]&emsp;[[Documentation](https://texdoc.org/pkg/graphpaper)]
 17/04 | `bearwear` | [[CTAN](https://www.ctan.org/pkg/bearwear)]&emsp;[[Documentation](https://texdoc.org/pkg/bearwear)]
+18/04 | `spath3` | [[CTAN](https://www.ctan.org/pkg/spath3)]&emsp;[[Documentation](https://texdoc.org/pkg/spath3)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
