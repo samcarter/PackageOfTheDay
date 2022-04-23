@@ -122,6 +122,7 @@ Day | Package | Link
 20/04 | `luamathalign` | [[CTAN](https://www.ctan.org/pkg/luamathalign)]&emsp;[[Documentation](https://texdoc.org/pkg/luamathalign)]
 21/04 | `schedule` | [[CTAN](https://www.ctan.org/pkg/schedule)]&emsp;[[Documentation](https://texdoc.org/pkg/schedule)]
 22/04 | `witharrows` | [[CTAN](https://www.ctan.org/pkg/witharrows)]&emsp;[[Documentation](https://texdoc.org/pkg/witharrows)]
+23/04 | `cryst` | [[CTAN](https://www.ctan.org/pkg/cryst)]&emsp;[[Documentation](https://texdoc.org/pkg/cryst)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
