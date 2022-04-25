@@ -124,6 +124,7 @@ Day | Package | Link
 22/04 | `witharrows` | [[CTAN](https://www.ctan.org/pkg/witharrows)]&emsp;[[Documentation](https://texdoc.org/pkg/witharrows)]
 23/04 | `cryst` | [[CTAN](https://www.ctan.org/pkg/cryst)]&emsp;[[Documentation](https://texdoc.org/pkg/cryst)]
 24/04 | `text2bib` | [[CTAN](https://www.ctan.org/pkg/text2bib)]&emsp;[[Documentation](https://texdoc.org/pkg/text2bib)]
+25/04 | `postnotes` | [[CTAN](https://www.ctan.org/pkg/postnotes)]&emsp;[[Documentation](https://texdoc.org/pkg/postnotes)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
