@@ -127,6 +127,7 @@ Day | Package | Link
 25/04 | `postnotes` | [[CTAN](https://www.ctan.org/pkg/postnotes)]&emsp;[[Documentation](https://texdoc.org/pkg/postnotes)]
 26/04 | `hvextern` | [[CTAN](https://www.ctan.org/pkg/hvextern)]&emsp;[[Documentation](https://texdoc.org/pkg/hvextern)]
 27/04 | `pgfornaments` | [[CTAN](https://www.ctan.org/pkg/pgfornaments)]&emsp;[[Documentation](https://texdoc.org/pkg/pgfornaments)]
+28/04 | `uspace` | [[CTAN](https://www.ctan.org/pkg/uspace)]&emsp;[[Documentation](https://texdoc.org/pkg/uspace)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
