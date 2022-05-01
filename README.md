@@ -130,6 +130,7 @@ Day | Package | Link
 28/04 | `uspace` | [[CTAN](https://www.ctan.org/pkg/uspace)]&emsp;[[Documentation](https://texdoc.org/pkg/uspace)]
 29/04 | `circledtext` | [[CTAN](https://www.ctan.org/pkg/circledtext)]&emsp;[[Documentation](https://texdoc.org/pkg/circledtext)]
 30/04 | `proflabo` | [[CTAN](https://www.ctan.org/pkg/proflabo)]&emsp;[[Documentation](https://texdoc.org/pkg/proflabo)]
+01/05 | `titlecaps` | [[CTAN](https://www.ctan.org/pkg/titlecaps)]&emsp;[[Documentation](https://texdoc.org/pkg/titlecaps)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
