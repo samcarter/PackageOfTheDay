@@ -136,6 +136,8 @@ Day | Package | Link
 04/05 | `insbox` | [[CTAN](https://www.ctan.org/pkg/insbox)]&emsp;[[Documentation](https://texdoc.org/pkg/insbox)]
 05/05 | `catchfile` | [[CTAN](https://www.ctan.org/pkg/catchfile)]&emsp;[[Documentation](https://texdoc.org/pkg/catchfile)]
 06/05 | `icomma` | [[CTAN](https://www.ctan.org/pkg/icomma)]&emsp;[[Documentation](https://texdoc.org/pkg/icomma)]
+07/05 | `fwlw` | [[CTAN](https://www.ctan.org/pkg/fwlw)]&emsp;[[Documentation](https://texdoc.org/pkg/fwlw)]
+08/05 | `kinematikz` | [[CTAN](https://www.ctan.org/pkg/kinematikz)]&emsp;[[Documentation](https://texdoc.org/pkg/kinematikz)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
