@@ -138,6 +138,7 @@ Day | Package | Link
 06/05 | `icomma` | [[CTAN](https://www.ctan.org/pkg/icomma)]&emsp;[[Documentation](https://texdoc.org/pkg/icomma)]
 07/05 | `fwlw` | [[CTAN](https://www.ctan.org/pkg/fwlw)]&emsp;[[Documentation](https://texdoc.org/pkg/fwlw)]
 08/05 | `kinematikz` | [[CTAN](https://www.ctan.org/pkg/kinematikz)]&emsp;[[Documentation](https://texdoc.org/pkg/kinematikz)]
+09/05 | `gatherenum` | [[CTAN](https://www.ctan.org/pkg/gatherenum)]&emsp;[[Documentation](https://texdoc.org/pkg/gatherenum)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
