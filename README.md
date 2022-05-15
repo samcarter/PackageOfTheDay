@@ -144,6 +144,7 @@ Day | Package | Link
 12/05 | `markdown` | [[CTAN](https://www.ctan.org/pkg/markdown)]&emsp;[[Documentation](https://texdoc.org/pkg/markdown)]
 13/05 | `logpap` | [[CTAN](https://www.ctan.org/pkg/logpap)]&emsp;[[Documentation](https://texdoc.org/pkg/logpap)]
 14/05 | `binhex` | [[CTAN](https://www.ctan.org/pkg/binhex)]&emsp;[[Documentation](https://texdoc.org/pkg/binhex)]
+15/05 | `rectopma` | [[CTAN](https://www.ctan.org/pkg/rectopma)]&emsp;[[Documentation](https://texdoc.org/pkg/rectopma)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
