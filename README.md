@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./Logo.svg" alt="Logo" title="Logo" height="256"></p align>
 
-As the [ducks of the year](https://github.com/samcarter/ducksoftheyear) soon celebrate their first birthday, it is time for a new project. The idea is to post each day a LaTeX package which I did not know before or which deserves a bit more attention. 
+The idea of the Package of the day is to post each day a LaTeX package which I did not know before or which deserves a bit more attention. 
 
 - the package (or class/Ti*k*Z library/...) should be publicly accessible, best if it is on CTAN
 - I don't guarantee that all the packages in this list are good or even work. Maybe I just like the idea or topic, so use them at your own risk
@@ -145,6 +145,7 @@ Day | Package | Link
 13/05 | `logpap` | [[CTAN](https://www.ctan.org/pkg/logpap)]&emsp;[[Documentation](https://texdoc.org/pkg/logpap)]
 14/05 | `binhex` | [[CTAN](https://www.ctan.org/pkg/binhex)]&emsp;[[Documentation](https://texdoc.org/pkg/binhex)]
 15/05 | `rectopma` | [[CTAN](https://www.ctan.org/pkg/rectopma)]&emsp;[[Documentation](https://texdoc.org/pkg/rectopma)]
+16/05 | `romanbar` | [[CTAN](https://www.ctan.org/pkg/romanbar)]&emsp;[[Documentation](https://texdoc.org/pkg/romanbar)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
