@@ -148,6 +148,7 @@ Day | Package | Link
 16/05 | `romanbar` | [[CTAN](https://www.ctan.org/pkg/romanbar)]&emsp;[[Documentation](https://texdoc.org/pkg/romanbar)]
 17/05 | `xr-hyper` | [[CTAN](https://www.ctan.org/pkg/xr-hyper)]&emsp;[[Documentation](https://texdoc.org/pkg/hyperref)]
 18/05 | `xcolor-solarized` | [[CTAN](https://www.ctan.org/pkg/xcolor-solarized)]&emsp;[[Documentation](https://texdoc.org/pkg/)]
+19/05 | `rulercompass` | [[CTAN](https://www.ctan.org/pkg/rulercompass)]&emsp;[[Documentation](https://texdoc.org/pkg/rulercompass)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
