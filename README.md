@@ -153,6 +153,7 @@ Day | Package | Link
 21/05 | `ifoddpage` | [[CTAN](https://www.ctan.org/pkg/ifoddpage)]&emsp;[[Documentation](https://texdoc.org/pkg/ifoddpage)]
 22/05 | `simpleicons` | [[CTAN](https://www.ctan.org/pkg/simpleicons)]&emsp;[[Documentation](https://texdoc.org/pkg/simpleicons)]
 23/05 | `sidenotesplus` | [[CTAN](https://www.ctan.org/pkg/sidenotesplus)]&emsp;[[Documentation](https://texdoc.org/pkg/sidenotesplus)]
+24/05 | `xtemplate` | [[CTAN](https://www.ctan.org/pkg/xtemplate)]&emsp;[[Documentation](https://texdoc.org/pkg/xtemplate)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
