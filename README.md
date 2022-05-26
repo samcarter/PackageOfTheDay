@@ -155,6 +155,7 @@ Day | Package | Link
 23/05 | `sidenotesplus` | [[CTAN](https://www.ctan.org/pkg/sidenotesplus)]&emsp;[[Documentation](https://texdoc.org/pkg/sidenotesplus)]
 24/05 | `xtemplate` | [[CTAN](https://www.ctan.org/pkg/xtemplate)]&emsp;[[Documentation](https://texdoc.org/pkg/xtemplate)]
 25/05 | `calligraphy  (TikZ Library)` | [[CTAN](https://www.ctan.org/pkg/spath3)]&emsp;[[Documentation](https://texdoc.org/pkg/calligraphy)]
+26/05 | `luavlna` | [[CTAN](https://www.ctan.org/pkg/luavlna)]&emsp;[[Documentation](https://texdoc.org/pkg/luavlna)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
