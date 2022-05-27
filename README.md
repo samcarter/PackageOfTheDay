@@ -156,6 +156,7 @@ Day | Package | Link
 24/05 | `xtemplate` | [[CTAN](https://www.ctan.org/pkg/xtemplate)]&emsp;[[Documentation](https://texdoc.org/pkg/xtemplate)]
 25/05 | `calligraphy  (TikZ Library)` | [[CTAN](https://www.ctan.org/pkg/spath3)]&emsp;[[Documentation](https://texdoc.org/pkg/calligraphy)]
 26/05 | `luavlna` | [[CTAN](https://www.ctan.org/pkg/luavlna)]&emsp;[[Documentation](https://texdoc.org/pkg/luavlna)]
+27/05 | `recipecard` | [[CTAN](https://www.ctan.org/pkg/recipecard)]&emsp;[[Documentation](https://texdoc.org/pkg/recipecard)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
