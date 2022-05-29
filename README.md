@@ -158,6 +158,7 @@ Day | Package | Link
 26/05 | `luavlna` | [[CTAN](https://www.ctan.org/pkg/luavlna)]&emsp;[[Documentation](https://texdoc.org/pkg/luavlna)]
 27/05 | `recipecard` | [[CTAN](https://www.ctan.org/pkg/recipecard)]&emsp;[[Documentation](https://texdoc.org/pkg/recipecard)]
 28/05 | `hf-tikz` | [[CTAN](https://www.ctan.org/pkg/hf-tikz)]&emsp;[[Documentation](https://texdoc.org/pkg/hf-tikz)]
+29/05 | `pst-vectorian` | [[CTAN](https://www.ctan.org/pkg/pst-vectorian)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-vectorian)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
