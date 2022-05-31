@@ -160,6 +160,7 @@ Day | Package | Link
 28/05 | `hf-tikz` | [[CTAN](https://www.ctan.org/pkg/hf-tikz)]&emsp;[[Documentation](https://texdoc.org/pkg/hf-tikz)]
 29/05 | `pst-vectorian` | [[CTAN](https://www.ctan.org/pkg/pst-vectorian)]&emsp;[[Documentation](https://texdoc.org/pkg/pst-vectorian)]
 30/05 | `zref-clever` | [[CTAN](https://www.ctan.org/pkg/zref-clever)]&emsp;[[Documentation](https://texdoc.org/pkg/zref-clever)]
+31/05 | `typed-checklist` | [[CTAN](https://www.ctan.org/pkg/typed-checklist)]&emsp;[[Documentation](https://texdoc.org/pkg/typed-checklist)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
