@@ -162,6 +162,7 @@ Day | Package | Link
 30/05 | `zref-clever` | [[CTAN](https://www.ctan.org/pkg/zref-clever)]&emsp;[[Documentation](https://texdoc.org/pkg/zref-clever)]
 31/05 | `typed-checklist` | [[CTAN](https://www.ctan.org/pkg/typed-checklist)]&emsp;[[Documentation](https://texdoc.org/pkg/typed-checklist)]
 01/06 | `pkgcheck` | [[CTAN](https://www.ctan.org/pkg/pkgcheck)]&emsp;[[Documentation](https://texdoc.org/pkg/pkgcheck)]
+02/06 | `rubik` | [[CTAN](https://www.ctan.org/pkg/rubik)]&emsp;[[Documentation](https://texdoc.org/pkg/rubik)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
