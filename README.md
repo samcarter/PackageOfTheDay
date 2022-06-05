@@ -165,6 +165,7 @@ Day | Package | Link
 02/06 | `rubik` | [[CTAN](https://www.ctan.org/pkg/rubik)]&emsp;[[Documentation](https://texdoc.org/pkg/rubik)]
 03/06 | `gtrlib.largetrees` | [[CTAN](https://www.ctan.org/pkg/gtrlib.largetrees)]&emsp;[[Documentation](https://texdoc.org/pkg/gtrlib.largetrees)]
 04/06 | `derivative` | [[CTAN](https://www.ctan.org/pkg/derivative)]&emsp;[[Documentation](https://texdoc.org/pkg/derivative)]
+05/06 | `snaptodo` | [[CTAN](https://www.ctan.org/pkg/snaptodo)]&emsp;[[Documentation](https://texdoc.org/pkg/snaptodo)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
