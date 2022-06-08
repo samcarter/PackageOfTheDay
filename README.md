@@ -168,6 +168,7 @@ Day | Package | Link
 05/06 | `snaptodo` | [[CTAN](https://www.ctan.org/pkg/snaptodo)]&emsp;[[Documentation](https://texdoc.org/pkg/snaptodo)]
 06/06 | `qrcode` | [[CTAN](https://www.ctan.org/pkg/qrcode)]&emsp;[[Documentation](https://texdoc.org/pkg/qrcode)]
 07/06 | `pgf-interference` | [[CTAN](https://www.ctan.org/pkg/pgf-interference)]&emsp;[[Documentation](https://texdoc.org/pkg/pgf-interference)]
+08/06 | `authorarchive` | [[CTAN](https://www.ctan.org/pkg/authorarchive)]&emsp;[[Documentation](https://texdoc.org/pkg/authorarchive)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
