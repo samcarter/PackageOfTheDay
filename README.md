@@ -173,6 +173,7 @@ Day | Package | Link
 10/06 | `yamlvars` | [[CTAN](https://www.ctan.org/pkg/yamlvars)]&emsp;[[Documentation](https://texdoc.org/pkg/yamlvars)]
 11/06 | `cooking-units` | [[CTAN](https://www.ctan.org/pkg/cooking-units)]&emsp;[[Documentation](https://texdoc.org/pkg/cooking-units)]
 12/06 | `luafindfont` | [[CTAN](https://www.ctan.org/pkg/luafindfont)]&emsp;[[Documentation](https://texdoc.org/pkg/luafindfont)]
+13/06 | `texplate` | [[CTAN](https://www.ctan.org/pkg/texplate)]&emsp;[[Documentation](https://texdoc.org/pkg/texplate)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
