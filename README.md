@@ -176,6 +176,7 @@ Day | Package | Link
 13/06 | `texplate` | [[CTAN](https://www.ctan.org/pkg/texplate)]&emsp;[[Documentation](https://texdoc.org/pkg/texplate)]
 14/06 | `pax` | [[CTAN](https://www.ctan.org/pkg/pax)]&emsp;[[Documentation](https://texdoc.org/pkg/pax)]
 15/06 | `revnum` | [[CTAN](https://www.ctan.org/pkg/revnum)]&emsp;[[Documentation](https://texdoc.org/pkg/revnum)]
+16/06 | `selnolig` | [[CTAN](https://www.ctan.org/pkg/selnolig)]&emsp;[[Documentation](https://texdoc.org/pkg/selnolig)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
