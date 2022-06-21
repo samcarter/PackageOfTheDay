@@ -181,6 +181,7 @@ Day | Package | Link
 18/06 | `pgf-pie` | [[CTAN](https://www.ctan.org/pkg/pgf-pie)]&emsp;[[Documentation](https://texdoc.org/pkg/pgf-pie)]
 19/06 | `refcheck` | [[CTAN](https://www.ctan.org/pkg/refcheck)]&emsp;[[Documentation](https://texdoc.org/pkg/refcheck)]
 20/06 | `magicwatermark` | [[CTAN](https://www.ctan.org/pkg/magicwatermark)]&emsp;[[Documentation](https://texdoc.org/pkg/magicwatermark)]
+21/06 | `longtable` | [[CTAN](https://www.ctan.org/pkg/longtable)]&emsp;[[Documentation](https://texdoc.org/pkg/longtable)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
