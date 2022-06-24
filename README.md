@@ -184,6 +184,7 @@ Day | Package | Link
 21/06 | `longtable` | [[CTAN](https://www.ctan.org/pkg/longtable)]&emsp;[[Documentation](https://texdoc.org/pkg/longtable)]
 22/06 | `newpax` | [[CTAN](https://www.ctan.org/pkg/newpax)]&emsp;[[Documentation](https://texdoc.org/pkg/newpax)]
 23/06 | `fixdif` | [[CTAN](https://www.ctan.org/pkg/fixdif)]&emsp;[[Documentation](https://texdoc.org/pkg/fixdif)]
+24/06 | `progressbar` | [[CTAN](https://www.ctan.org/pkg/progressbar)]&emsp;[[Documentation](https://texdoc.org/pkg/progressbar)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
