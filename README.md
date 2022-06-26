@@ -186,6 +186,7 @@ Day | Package | Link
 23/06 | `fixdif` | [[CTAN](https://www.ctan.org/pkg/fixdif)]&emsp;[[Documentation](https://texdoc.org/pkg/fixdif)]
 24/06 | `progressbar` | [[CTAN](https://www.ctan.org/pkg/progressbar)]&emsp;[[Documentation](https://texdoc.org/pkg/progressbar)]
 25/06 | `rubikcube` | [[CTAN](https://www.ctan.org/pkg/rubikcube)]&emsp;[[Documentation](https://texdoc.org/pkg/rubikcube)]
+26/06 | `tikz-3dplot` | [[CTAN](https://www.ctan.org/pkg/tikz-3dplot)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-3dplot)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
