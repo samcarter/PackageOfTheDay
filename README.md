@@ -189,6 +189,7 @@ Day | Package | Link
 26/06 | `tikz-3dplot` | [[CTAN](https://www.ctan.org/pkg/tikz-3dplot)]&emsp;[[Documentation](https://texdoc.org/pkg/tikz-3dplot)]
 27/06 | `tikzbricks` | [[CTAN](https://www.ctan.org/pkg/tikzbricks)]&emsp;[[Documentation](https://texdoc.org/pkg/tikzbricks)]
 28/06 | `microtype` | [[CTAN](https://www.ctan.org/pkg/microtype)]&emsp;[[Documentation](https://texdoc.org/pkg/microtype)]
+29/06 | `xcolor-material` | [[CTAN](https://www.ctan.org/pkg/xcolor-material)]&emsp;[[Documentation](https://texdoc.org/pkg/xcolor-material)]
 01/07 | `barracuda` | [[CTAN](https://www.ctan.org/pkg/barracuda)]&emsp;[[Documentation](https://texdoc.org/pkg/barracuda)]
 02/07 | `gamebook` | [[CTAN](https://www.ctan.org/pkg/gamebook)]&emsp;[[Documentation](https://texdoc.org/pkg/gamebook)]
 03/07 | `ccicons` | [[CTAN](https://www.ctan.org/pkg/ccicons)]&emsp;[[Documentation](https://texdoc.org/pkg/ccicons)] 
