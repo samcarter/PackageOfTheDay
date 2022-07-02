@@ -375,3 +375,8 @@ Day | Package | Link
 29/12 | `termsim` | [[CTAN](https://www.ctan.org/pkg/termsim)]&emsp;[[Documentation](https://texdoc.org/pkg/termsim)]
 30/12 | `autopuncitems` | [[CTAN](https://www.ctan.org/pkg/autopuncitems)]&emsp;[[Documentation](https://texdoc.org/pkg/autopuncitems)]
 31/12 | `folding (TikZ Library)` | [[CTAN](https://www.ctan.org/pkg/pgf)]&emsp;[[Documentation](https://texdoc.org/pkg/pgf)]
+
+Thanks to everyone who contributed to this one-year adventure! As many people seem to like the concpet of getting to know new packages, this endevor will continue, albeit less regularly and the scope will broaden a bit and also include related tools etc.
+
+- [unicode2latex](https://github.com/mennucc/unicode2latex)
+- [lt3luabridge](https://www.ctan.org/pkg/lt3luabridge)
