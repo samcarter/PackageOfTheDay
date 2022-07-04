@@ -380,3 +380,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 
 - [unicode2latex](https://github.com/mennucc/unicode2latex)
 - [lt3luabridge](https://www.ctan.org/pkg/lt3luabridge)
+- [LaTeX-Beamer-Theme-Overview](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md)
