@@ -383,3 +383,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [LaTeX-Beamer-Theme-Overview](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview/blob/main/OVERVIEW.md)
 - [familytree](https://www.ctan.org/pkg/familytree)
 - [efbox](https://www.ctan.org/pkg/efbox)
+- [hideanswer](https://www.ctan.org/pkg/hideanswer)
