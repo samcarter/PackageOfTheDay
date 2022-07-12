@@ -384,3 +384,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [familytree](https://www.ctan.org/pkg/familytree)
 - [efbox](https://www.ctan.org/pkg/efbox)
 - [hideanswer](https://www.ctan.org/pkg/hideanswer)
+- [flexipage](https://www.ctan.org/pkg/flexipage)
