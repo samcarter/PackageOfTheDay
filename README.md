@@ -386,3 +386,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [hideanswer](https://www.ctan.org/pkg/hideanswer)
 - [flexipage](https://www.ctan.org/pkg/flexipage)
 - [cprotectinside](https://www.ctan.org/pkg/cprotectinside)
+- [pdfrender](https://www.ctan.org/pkg/pdfrender)
