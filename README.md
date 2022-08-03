@@ -390,3 +390,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [gitver](https://www.ctan.org/pkg/gitver)
 - [tikzfill](https://www.ctan.org/pkg/tikzfill)
 - [wrapstuff](https://www.ctan.org/pkg/wrapstuff)
+- [customdice](https://www.ctan.org/pkg/customdice)
