@@ -391,3 +391,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [tikzfill](https://www.ctan.org/pkg/tikzfill)
 - [wrapstuff](https://www.ctan.org/pkg/wrapstuff)
 - [customdice](https://www.ctan.org/pkg/customdice)
+- [tikz-ext](https://www.ctan.org/pkg/tikz-ext)
