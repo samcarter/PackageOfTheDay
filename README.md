@@ -394,3 +394,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [tikz-ext](https://www.ctan.org/pkg/tikz-ext)
 - [biblatex-ms](https://www.ctan.org/pkg/biblatex-ms)
 - [Tikzpingus](https://www.ctan.org/pkg/Tikzpingus)
+- [darkmode](https://www.ctan.org/pkg/darkmode)
