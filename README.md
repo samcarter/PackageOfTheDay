@@ -396,3 +396,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [Tikzpingus](https://www.ctan.org/pkg/Tikzpingus)
 - [darkmode](https://www.ctan.org/pkg/darkmode)
 - [wheelchart](https://www.ctan.org/pkg/wheelchart)
+- [blowup](https://www.ctan.org/pkg/blowup)
