@@ -398,3 +398,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [wheelchart](https://www.ctan.org/pkg/wheelchart)
 - [blowup](https://www.ctan.org/pkg/blowup)
 - [jobname-suffix](https://www.ctan.org/pkg/jobname-suffix)
+- [gitstatus](https://www.ctan.org/pkg/gitstatus)
