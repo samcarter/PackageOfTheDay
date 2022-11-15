@@ -402,3 +402,4 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [gitstatus](https://www.ctan.org/pkg/gitstatus)
 - [pangram](https://www.ctan.org/pkg/pangram)
 - [luacas](https://www.ctan.org/pkg/luacas)
+- [crossrefenum](https://www.ctan.org/pkg/crossrefenum)
