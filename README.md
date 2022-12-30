@@ -407,3 +407,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [apxproof](https://www.ctan.org/pkg/apxproof)
 - [jeuxcartes](https://www.ctan.org/pkg/jeuxcartes)
 - [odsfile](https://www.ctan.org/pkg/odsfile)
+- [tikz-imagelabels](https://www.ctan.org/pkg/tikz-imagelabels)
+- [](https://www.ctan.org/pkg/)
+- [](https://www.ctan.org/pkg/)
+- [](https://www.ctan.org/pkg/)
