@@ -409,7 +409,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [odsfile](https://www.ctan.org/pkg/odsfile)
 - [gradient-text](https://www.ctan.org/pkg/gradient-text) (colouring text with a gradient)
 - [tikz-imagelabels](https://www.ctan.org/pkg/tikz-imagelabels) (adding labels with arrows to an image)
-- [scrabble](https://www.ctan.org/pkg/scrabble)
+- [luacomplex](https://www.ctan.org/pkg/luacomplex)
 - [scrabble](https://www.ctan.org/pkg/scrabble) (creating scrabble boards with latex)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
