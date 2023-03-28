@@ -415,6 +415,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [overarrows](https://www.ctan.org/pkg/overarrows)
 - [tangramtikz](https://www.ctan.org/pkg/tangramtikz)
 - [PixelArtTikz](https://www.ctan.org/pkg/PixelArtTikz)
+- [mpchess](https://www.ctan.org/pkg/mpchess)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
