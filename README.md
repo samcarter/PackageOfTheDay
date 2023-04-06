@@ -417,7 +417,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [PixelArtTikz](https://www.ctan.org/pkg/PixelArtTikz)
 - [mpchess](https://www.ctan.org/pkg/mpchess)
 - [tikz-nfold](https://www.ctan.org/pkg/tikz-nfold)
-- [findpkg](https://www.ctan.org/pkg/findpkg)
+- [texfindpkg](https://www.ctan.org/pkg/texfindpkg)
 - [emo](https://www.ctan.org/pkg/emo)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
