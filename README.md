@@ -419,6 +419,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [tikz-nfold](https://www.ctan.org/pkg/tikz-nfold)
 - [texfindpkg](https://www.ctan.org/pkg/texfindpkg)
 - [emo](https://www.ctan.org/pkg/emo)
+- [cleveref-usedon](https://www.ctan.org/pkg/cleveref-usedon)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
