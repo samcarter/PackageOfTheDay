@@ -420,6 +420,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [texfindpkg](https://www.ctan.org/pkg/texfindpkg)
 - [emo](https://www.ctan.org/pkg/emo)
 - [cleveref-usedon](https://www.ctan.org/pkg/cleveref-usedon)
+- [playcards](https://www.ctan.org/pkg/playcards)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
