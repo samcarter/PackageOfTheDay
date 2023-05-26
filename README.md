@@ -422,6 +422,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [cleveref-usedon](https://www.ctan.org/pkg/cleveref-usedon)
 - [playcards](https://www.ctan.org/pkg/playcards)
 - [starray](https://www.ctan.org/pkg/starray)
+- [movement-arrows](https://www.ctan.org/pkg/movement-arrows)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
