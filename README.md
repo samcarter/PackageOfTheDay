@@ -424,6 +424,8 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [starray](https://www.ctan.org/pkg/starray)
 - [movement-arrows](https://www.ctan.org/pkg/movement-arrows)
 - [postit](https://www.ctan.org/pkg/postit)
+- [quizztex](https://www.ctan.org/pkg/quizztex)
+- [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
