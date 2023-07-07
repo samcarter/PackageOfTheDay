@@ -427,5 +427,5 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [quizztex](https://www.ctan.org/pkg/quizztex)
 - [rouequestions](https://www.ctan.org/pkg/rouequestions)
 - [maze](https://www.ctan.org/pkg/maze)
-- [](https://www.ctan.org/pkg/)
+- [tilings](https://www.ctan.org/pkg/tilings)
 - [](https://www.ctan.org/pkg/)
