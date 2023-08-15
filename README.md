@@ -432,7 +432,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [2048tex](https://github.com/plante3/2048tex)
 - [wordle](https://www.ctan.org/pkg/wordle)
 - [wordcloud](https://www.ctan.org/pkg/wordcloud)
-- [](https://www.ctan.org/pkg/)
+- [joinbox](https://www.ctan.org/pkg/joinbox)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
