@@ -435,7 +435,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [joinbox](https://www.ctan.org/pkg/joinbox)
 - [xpunctuate](https://www.ctan.org/pkg/xpunctuate)
 - [pgfmath-xfp](https://www.ctan.org/pkg/pgfmath-xfp)
-- [](https://www.ctan.org/pkg/)
+- [non-decimal-units](https://www.ctan.org/pkg/non-decimal-units)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
