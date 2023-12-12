@@ -437,7 +437,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [pgfmath-xfp](https://www.ctan.org/pkg/pgfmath-xfp)
 - [non-decimal-units](https://www.ctan.org/pkg/non-decimal-units)
 - [circularglyphs](https://www.ctan.org/pkg/circularglyphs)
-- [](https://www.ctan.org/pkg/)
+- [decimalcomma](https://www.ctan.org/pkg/decimalcomma)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
