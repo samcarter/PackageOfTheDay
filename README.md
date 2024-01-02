@@ -438,7 +438,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [non-decimal-units](https://www.ctan.org/pkg/non-decimal-units)
 - [circularglyphs](https://www.ctan.org/pkg/circularglyphs)
 - [decimalcomma](https://www.ctan.org/pkg/decimalcomma)
-- [](https://www.ctan.org/pkg/)
+- [latex2svg-service](https://github.com/joulev/latex2svg-service)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
