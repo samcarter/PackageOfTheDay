@@ -439,6 +439,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [circularglyphs](https://www.ctan.org/pkg/circularglyphs)
 - [decimalcomma](https://www.ctan.org/pkg/decimalcomma)
 - [latex2svg-service](https://github.com/joulev/latex2svg-service)
+- [fgruler](https://www.ctan.org/pkg/fgruler)
 - [moloch](https://www.ctan.org/pkg/moloch)
 - [tblr-extras](https://www.ctan.org/pkg/tblr-extras)
 - [piton](https://www.ctan.org/pkg/piton)
