@@ -448,7 +448,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [tblr-extras](https://www.ctan.org/pkg/tblr-extras)
 - [fillwith](https://www.ctan.org/pkg/fillwith)
 - [zugferd](https://www.ctan.org/pkg/zugferd)
-- [](https://www.ctan.org/pkg/)
+- [pdflatexpicscale](https://www.ctan.org/pkg/pdflatexpicscale)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
