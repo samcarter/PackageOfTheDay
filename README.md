@@ -449,7 +449,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [fillwith](https://www.ctan.org/pkg/fillwith)
 - [zugferd](https://www.ctan.org/pkg/zugferd)
 - [pdflatexpicscale](https://www.ctan.org/pkg/pdflatexpicscale)
-- [](https://www.ctan.org/pkg/)
+- [lua-visual-debug](https://www.ctan.org/pkg/lua-visual-debug)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
