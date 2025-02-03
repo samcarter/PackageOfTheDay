@@ -452,7 +452,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [lua-visual-debug](https://www.ctan.org/pkg/lua-visual-debug)
 - [fillpages](https://www.ctan.org/pkg/fillpages)
 - [metalogox](https://www.ctan.org/pkg/metalogox)
-- [](https://www.ctan.org/pkg/)
+- [packdoc](https://www.ctan.org/pkg/packdoc)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
