@@ -453,7 +453,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [fillpages](https://www.ctan.org/pkg/fillpages)
 - [metalogox](https://www.ctan.org/pkg/metalogox)
 - [packdoc](https://www.ctan.org/pkg/packdoc)
-- [](https://www.ctan.org/pkg/)
+- [timechart](https://www.ctan.org/pkg/timechart)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
