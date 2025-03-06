@@ -456,6 +456,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [timechart](https://www.ctan.org/pkg/timechart)
 - [tikz-cookingsymbols](https://www.ctan.org/pkg/tikz-cookingsymbols)
 - [chronos](https://www.ctan.org/pkg/chronos)
+- [tikzcalendarnotes](https://www.ctan.org/pkg/tikzcalendarnotes)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
