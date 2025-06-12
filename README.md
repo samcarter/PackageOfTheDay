@@ -458,7 +458,7 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [chronos](https://www.ctan.org/pkg/chronos)
 - [tikzcalendarnotes](https://www.ctan.org/pkg/tikzcalendarnotes)
 - [fontawesome6](https://www.ctan.org/pkg/fontawesome6)
-- [](https://www.ctan.org/pkg/)
+- [show-pdf-tags](https://www.ctan.org/pkg/show-pdf-tags)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
