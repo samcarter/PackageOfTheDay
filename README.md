@@ -462,6 +462,6 @@ Thanks to everyone who contributed to this one-year adventure! As many people se
 - [tictactoe](https://www.ctan.org/pkg/tictactoe)
 - [lua-tikz3dtools](https://www.ctan.org/pkg/lua-tikz3dtools)
 - [seatingchart](https://www.ctan.org/pkg/seatingchart)
-- [](https://www.ctan.org/pkg/)
+- [tikz-shields](https://www.ctan.org/pkg/tikz-shields)
 - [](https://www.ctan.org/pkg/)
 - [](https://www.ctan.org/pkg/)
